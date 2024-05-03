@@ -17,11 +17,11 @@ application:
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
-    - name: 'adblock-nocoin-list'
-      path: 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'
+- name: 'Banben规则'
+  path: 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/adgk.txt'
+- name: 'Yhosts规则'
+  path: 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/yhosts.txt'
 
-- name: 'Scam Blocklist'
-  path: 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt'
     #本地规则文件
     local:
       - name: 'local rule'
