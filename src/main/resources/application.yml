@@ -17,10 +17,11 @@ application:
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
-- name: 'Banben规则'
-  path: 'https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/resource-abuse.txt'
-- name: 'Yhosts规则'
-  path: 'https://filters.adtidy.org/extension/ublock/filters/11.txt'
+      - name: 'Banben规则'
+        path: 'https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/resource-abuse.txt'
+        
+      - name: 'Yhosts规则'
+        path: 'https://filters.adtidy.org/extension/ublock/filters/11.txt'
 
     #本地规则文件
     local:
