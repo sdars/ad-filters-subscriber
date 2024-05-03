@@ -17,11 +17,11 @@ application:
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
-      - name: 'Subscription 1'
-        path: 'https://example.org/rule.txt' #仅支持 http/https，不限定响应内容格式
+      - name: '晴雅'
+        path: 'http://rssv.cn/adguard/api.php?type=host' #仅支持 http/https，不限定响应内容格式
 
-      - name: 'Subscription 2'
-        path: 'http://example.org/rule.txt'
+      - name: '晴雅DNS'
+        path: 'http://rssv.cn/adguard/api.php?type=dns'
 
     #本地规则文件
     local:
