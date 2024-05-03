@@ -1,42 +1,43 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-04 00:39:01
+! Last Modified: 2024-05-04 02:02:43
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||*.gdt.qq.com^
-||*.e.qq.com^
-||c.*.qq.com^
-||useronline-*.image.myqcloud.com^
-||rs*.qq.com^
-||*.beizi.biz^
-||*.hpplay.cn^
-||iad.*.163.com^
-||sf*-fe-tos.pglstatp-toutiao.com^
-||*.hubcloud.com.cn^
-||ad-*file.myqcloud.com^
-||*.retail.n.weimob.com^
-||uploads*.gifshow.com^
-||uploads*.ksapisrv.com^
-||api-access.pangolin-sdk-toutiao*.com^
-||*-be-pack.pglstatp-toutiao.com^
-||consumerapp*.image.myqcloud.com^
-||p*-be-pack-sign.pglstatp-toutiao.com^
-||*umeng.com^
-||v*-be-pack.pglstatp-toutiao.com^
-||*.sigmob.cn^
-||*.8le8le.com^
-||webcast*-open-hl.douyin.com^
-||*8le8le.com^
-||adx-*anythinktech.com^
-||nadvideo*.baidu.com^
-||sf*-be-pack.pglstatp-toutiao.com^
-||tnc*-bjlgy.zijieapi.com^
-||lf*-ad-union-sdk.pglstatp-toutiao.com^
+||adv0*.msa.cdn.mediaset.net^
+||reachableads-av.*.amazonaws.com^
+||ads*.textra.me^
+||ads-*-nfl.yinzcam.com^
+||aan.amazon.*^
+||ads*.production-public.tubi.io^
+||mob*.novanewsapp.com^
+||ad-*.amazonaws.com^
 ||ads*-normal-lq.zijieapi.com^
-||ads*-normal.zijieapi.com^
-||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
-||ads*-normal-lq.zijieapi.com.queniuiq.com^
-||p*-ad-sign.byteimg.com^
+||v*-ad.video.yximgs.com^
+||ads*.bojijulebu.com^
+||ir-new-cdn-eu-west-*-hb.rayjump.com^
+||tnc16-*.byteoversea.com^
+||adcs-*.myappsget.com^
+||jtbo*.nqxvevk.cn^
+||ad-*.appacc.dbankedge.cn^
+||adx-*.dbankedge.cn^
+||adx-*.op.dbankcloud.com.edgekey.net^
+||marketplace-*.hyprmx.com^
+||events-*.op.hicloud.com^
+||iad-*.braze.com^
+||ms*.applvn.com^
+||api*.bidmachine.io^
+||banner.*.tccapis.com^
+||cdn-adn-*.rayjump.com^
+||api*.batmobi.net^
+||api*.batmobil.net^
+||adserver.*.yahoodns.net^
+||ad*.nexage.com^
+||iad-*.appboy.com^
+||mediate-ios-*.hyprmx.com^
+||production-adserver-*.amazonaws.com^
+||rtbimp-loadbalancer-*.amazonaws.com^
+||ifengad.*.ifeng.com^
+n.byteimg.com^
 ||*vmind.qqvideo.tc.qq.com^
 ||wallpaper-*.file.myqcloud.com^
 ||rconfig-*.file.myqcloud.com^
