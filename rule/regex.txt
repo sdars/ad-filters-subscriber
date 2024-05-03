@@ -1,0 +1,53 @@
+[ADFS Adblock List]
+! Title: regex.txt
+! Last Modified: 2024-05-04 00:39:01
+! Homepage: https://github.com/fordes123/ad-filters-subscriber/
+
+||*.gdt.qq.com^
+||*.e.qq.com^
+||c.*.qq.com^
+||useronline-*.image.myqcloud.com^
+||rs*.qq.com^
+||*.beizi.biz^
+||*.hpplay.cn^
+||iad.*.163.com^
+||sf*-fe-tos.pglstatp-toutiao.com^
+||*.hubcloud.com.cn^
+||ad-*file.myqcloud.com^
+||*.retail.n.weimob.com^
+||uploads*.gifshow.com^
+||uploads*.ksapisrv.com^
+||api-access.pangolin-sdk-toutiao*.com^
+||*-be-pack.pglstatp-toutiao.com^
+||consumerapp*.image.myqcloud.com^
+||p*-be-pack-sign.pglstatp-toutiao.com^
+||*umeng.com^
+||v*-be-pack.pglstatp-toutiao.com^
+||*.sigmob.cn^
+||*.8le8le.com^
+||webcast*-open-hl.douyin.com^
+||*8le8le.com^
+||adx-*anythinktech.com^
+||nadvideo*.baidu.com^
+||sf*-be-pack.pglstatp-toutiao.com^
+||tnc*-bjlgy.zijieapi.com^
+||lf*-ad-union-sdk.pglstatp-toutiao.com^
+||ads*-normal-lq.zijieapi.com^
+||ads*-normal.zijieapi.com^
+||ads*-normal-lq.zijieapi.com.w.cdngslb.com^
+||ads*-normal-lq.zijieapi.com.queniuiq.com^
+||p*-ad-sign.byteimg.com^
+||*vmind.qqvideo.tc.qq.com^
+||wallpaper-*.file.myqcloud.com^
+||rconfig-*.file.myqcloud.com^
+||ads*kugou.com^
+||*djvod.ndcimgs.com^
+||*zhangyue.net^
+||p*-lm.adkwai.com^
+||p*-lm.adukwai.com^
+||*igd.xml*^
+||upos-*-static.bilivideo.com^
+||line*-adscore-api.biligame.net^
+||*dy-pic*.iqiyipic.com^
+||*adkwai.com^
+||*.ksyungslb.com^
