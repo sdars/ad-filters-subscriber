@@ -19,8 +19,10 @@ application:
     remote:
       - name: 'adblock-nocoin-list'
         path: 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt'
+        
       - name: 'Scam Blocklist'
         path: 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt'
+        
       - name: 'Dan Pollock's List'
         path: 'https://someonewhocares.org/hosts/zero/hosts'
         
