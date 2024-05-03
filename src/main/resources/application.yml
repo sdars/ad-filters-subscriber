@@ -39,7 +39,6 @@ application:
       path: 'https://code.gitlink.org.cn/hacamer/AdRules/raw/branch/main/adguard-full.txt'
     - name: 'adguard base'
       path: 'https://raw.githubusercontent.com/AdguardTeam/FiltersRegistry/master/filters/filter_2_Base/filter.txt'
-#自用添加↓
     - name: 'anti-AD'
       path: 'https://anti-ad.net/easylist.txt'
     - name: 'AdGuard CNAME 伪装跟踪器列表'
@@ -78,7 +77,6 @@ application:
       path: 'https://raw.githubusercontents.com/91ajames/ublock-filters-ulist-youtube/main/blocklist.txt'
     - name: '秋风广告规则,针对Android广告'
       path: 'https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt'
-#KoolProxy规则
     - name: '每日规则'
       path: 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/daily.txt'
     - name: 'AdGuard规则'
@@ -89,7 +87,6 @@ application:
       path: 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/yhosts.txt'
     - name: 'StevenBlack规则'
       path: 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/steven.txt'
-#uBlock内置规则
     - name: 'uBlock filters'
       path: 'https://cdn.jsdelivr.net/gh/uBlockOrigin/uAssetsCDN@main/filters/filters.txt'
     - name: 'uBlock filters – Badware risks'
@@ -104,7 +101,6 @@ application:
       path: 'https://gitcdn.link/cdn/uBlockOrigin/uAssetsCDN/main/filters/unbreak.txt'
     - name: 'AdGuard Mobile Ads移动设备'
       path: 'https://filters.adtidy.org/extension/ublock/filters/11.txt'
-#神殿规则
     - name: 'EasyList'
       path: 'https://easylist-downloads.adblockplus.org/easylist.txt'
     - name: 'EasyList China'
