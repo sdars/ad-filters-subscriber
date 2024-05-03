@@ -18,7 +18,7 @@ application:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
       - name: 'Banben规则'
-        path: 'https://cdn.statically.io/gh/uBlockOrigin/uAssetsCDN/main/filters/resource-abuse.txt'
+        path: 'https://raw.iqiq.io/ilxp/koolproxy/master/rules/adgk.txt'
       - name: 'Yhosts规则'
         path: 'https://filters.adtidy.org/extension/ublock/filters/11.txt'
 
