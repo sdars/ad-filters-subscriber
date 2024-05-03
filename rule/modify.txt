@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2024-05-04 02:02:43
+! Last Modified: 2024-05-04 02:04:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 /edgemesh.*.js$script,domain=~edgemesh.com|~edgeno.de
@@ -17,7 +17,6 @@ shrink-service.it##+js(aopr, WebAssembly)
 *$csp=worker-src 'none',domain=flashx.pw|vidoza.net
 djs.sk##+js(aopr, miner)
 ||thevideo.*^$csp=worker-src 'none';
-||m.yap.yahoo.com^$domain=~not.dns
 *$csp=worker-src 'none',domain=powvideo.net
 ||potomy.ru^$csp=worker-src 'none'
 *$csp=worker-src 'none',domain=megapastes.com
@@ -47,16 +46,17 @@ bilibili.com,dandanzan.top,nunuyy.*,v.qq.com##+js(nowebrtc)
 app.koinly.io##.login-page:style(-webkit-animation: none !important)
 knowyourmeme.com##+js(nosiif, blogherads)
 *$websocket,domain=linuxtracker.org
-||manifest.auditude.com^$domain=~not_for_sdn_filter.com
-/adunion/*
 ||cdn-prod.securiti.ai/consent/auto_blocking/$domain=xfinity.com
 deviantart.com##+js(aost, Math.sqrt, update)
 duplichecker.com,plagiarismchecker.co,plagiarismdetector.net,searchenginereports.net,smallseotools.com##.icon_animation samp:style(animation: none !important;)
 tapewithadblock.org##+js(rmnt, script, /RegExp\(\'/, condition, RegExp)
 ||survey.alchemer.eu/s3/$frame,3p,domain=airforce-technology.com
-||54.222.186.106^
 meeting.tencent.com##+js(no-xhr-if, /(trace|beacon)\.qq\.com/)
 notion.so##+js(no-fetch-if, splunkcloud.com/services/collector)
+||m.yap.yahoo.com^$domain=~not.dns
+||manifest.auditude.com^$domain=~not_for_sdn_filter.com
+/adunion/*
+||54.222.186.106^
 -adx-*.rayjump.com^
 ||kiesta.net^$third-party
 ||adx-*.dbankcloud.
