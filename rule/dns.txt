@@ -1,9 +1,8 @@
 [ADFS Adblock List]
 ! Title: dns.txt
-! Last Modified: 2024-05-04 02:04:46
+! Last Modified: 2024-05-04 02:06:26
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||dek5iqd53g59a.cloudfront.net^
 ||adx-open-service.youku.com^
 ||ad.youku.com^
 ||ykad-data.youku.com^
@@ -853,4 +852,6 @@
 ||ifengad.*.ifeng.com^
 ||etl.tindersparks.com^
 ||sensors.larkplayerapp.com^
+||log.kajicam.com^
+ayerapp.com^
 ||log.kajicam.com^
