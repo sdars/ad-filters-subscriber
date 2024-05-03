@@ -23,6 +23,8 @@ application:
       - name: '晴雅DNS'
         path: 'http://rssv.cn/adguard/api.php?type=dns'
 
+      - 'https://raw.hellogithub.com/hosts' #name: hellogithub
+
     #本地规则文件
     local:
       - name: 'local rule'
