@@ -17,11 +17,15 @@ application:
   rule:
     #远程订阅规则 （！使用前请删除下方示例配置, 注意缩进）
     remote:
-#神殿规则
-      - name: 'EasyList'
-        path: 'https://easylist-downloads.adblockplus.org/easylist.txt'
-      - name: 'EasyList China'
-        path: 'https://easylist-downloads.adblockplus.org/easylistchina.txt'
+#神殿规则-白名单
+      - name: 'anti-ad白名单'
+        path: 'https://raw.githubusercontent.com/privacy-protection-tools/dead-horse/master/anti-ad-white-list.txt'
+      - name: 'filter_whitelist'
+        path: 'https://raw.githubusercontent.com/hl2guide/Filterlist-for-AdGuard/master/filter_whitelist.txt'
+      - name: 'LWJ s white list'
+        path: 'https://raw.githubusercontent.com/liwenjie119/adg-rules/master/white.txt'
+      - name: 'DNS允许白名单'
+        path: 'https://raw.githubusercontent.com/ChengJi-e/AFDNS/master/QD.txt'
         
     #本地规则文件
     local:
