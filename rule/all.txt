@@ -1,72 +1,72 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2024-05-04 08:16:00
+! Last Modified: 2024-05-04 08:17:34
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-#
 ||1stireland.com^
+#
 ||1sttheworld.com^
-0.0.0.0 1q2w3.fun
 ||42gixk.98kk89.com^
+0.0.0.0 1q2w3.fun
 ||4556.de^
 0.0.0.0 abc.pema.cl
 ||5g-update.com^
-0.0.0.0 acbp0020171456.page.tl
 ||9vyzdk8.lvditoys.com^
-0.0.0.0 ad-miner.com
+0.0.0.0 acbp0020171456.page.tl
 ||9vzn29.98kk89.com^
-0.0.0.0 adminer.com
+0.0.0.0 ad-miner.com
 ||aadirone.cc^
-0.0.0.0 aeros01.tk
+0.0.0.0 adminer.com
 ||abncbp.com^
-0.0.0.0 aeros02.tk
+0.0.0.0 aeros01.tk
 ||accfiverif.com^
-0.0.0.0 aeros11.tk
+0.0.0.0 aeros02.tk
 ||account-cfe.mx^
-0.0.0.0 aeros12.tk
+0.0.0.0 aeros11.tk
 ||acquatee.com^
-0.0.0.0 afminer.com
+0.0.0.0 aeros12.tk
 ||adupihi.com^
-0.0.0.0 analytics.blue
+0.0.0.0 afminer.com
 ||affordableforyouusa5.godaddysites.com^
+0.0.0.0 analytics.blue
 ||ahenana.com^
-||ahundredphotos.com^
-||airmaxskobillige.com^
 0.0.0.0 andlache.com
-||ajcenteruss.com^
+||ahundredphotos.com^
 0.0.0.0 anybest.pw
-||akebicycle.com^
+||airmaxskobillige.com^
 0.0.0.0 api.browsermine.com
-||aliseshop.com^
+||ajcenteruss.com^
 0.0.0.0 api.inwemo.com
-||aliyaoberbrunnergreg21.myshopify.com^
+||akebicycle.com^
 0.0.0.0 api.miner.beeppool.org
-||allergyfl.com^
+||aliseshop.com^
 0.0.0.0 as.cfcdist.loan
-||allnewsready.com^
 0.0.0.0 ashgrrwt.click
-||allstarshirt.com^
+||aliyaoberbrunnergreg21.myshopify.com^
+||allergyfl.com^
 0.0.0.0 authedmine.com
-||alohazing.com^
+||allnewsready.com^
 0.0.0.0 authedmine.eu
-||altruetech.com^
-||amcclothes.com^
+||allstarshirt.com^
 0.0.0.0 authedwebmine.cz
-||amznshirts.com^
+||alohazing.com^
 0.0.0.0 autologica.ga
-||an1.is^
+||altruetech.com^
 0.0.0.0 axoncoho.tk
-||andamente.pt^
+||amcclothes.com^
 0.0.0.0 bablace.com
-||animeshoppers.com^
-||anydebrid.com^
+||amznshirts.com^
 0.0.0.0 bafybeidravcab5p3acvthxtwosm4rfpl4yypwwm52s7sazgxaezfzn5xn4.ipfs.infura-ipfs.io
-||aoocib.com^
+||an1.is^
 0.0.0.0 baiduccdn1.com
-||apple.enablemyidservices.com^
+||andamente.pt^
 0.0.0.0 becanium.com
-||arduino.uk.eu.org^
+||animeshoppers.com^
 0.0.0.0 berateveng.ru
+||anydebrid.com^
+||aoocib.com^
+||apple.enablemyidservices.com^
+||arduino.uk.eu.org^
 ||ariatwear.online^
 0.0.0.0 besocial.online
 ||army-shop.onshopbase.com^
@@ -133,27 +133,27 @@
 ||binom0-web.com^
 0.0.0.0 cnhv.co
 ||binomo-brokers.com^
-0.0.0.0 cnt.statistic.date
 ||binomo-id.pro^
+0.0.0.0 cnt.statistic.date
 ||binomo.broker^
 0.0.0.0 coin-have.com
 ||binomo.com^
 0.0.0.0 coinblind.com
 ||binomo.vip^
-0.0.0.0 coinerra.com
 ||binomo2022.net^
-0.0.0.0 coinhiveproxy.com
 ||binomorupiah-id.com^
 ||binomoweb.org^
+0.0.0.0 coinerra.com
 ||binomoweblogin.com^
-0.0.0.0 coinminingonline.com
+0.0.0.0 coinhiveproxy.com
 ||bite-life.com^
-0.0.0.0 coinnebula.com
+0.0.0.0 coinminingonline.com
 ||bitsoft360.app^
+0.0.0.0 coinnebula.com
 0.0.0.0 coinpirate.cf
 ||bitsoft360.com^
-0.0.0.0 coinpot.co
 ||bitsoft360.io^
+0.0.0.0 coinpot.co
 ||bitsoft360.net^
 0.0.0.0 coinrail.io
 ||bknstore.com^
@@ -163,20 +163,20 @@
 ||blastparis.com^
 0.0.0.0 crypto-loot.com
 ||bloomingvibe.com^
-||bncentertainment.com^
 0.0.0.0 crypto-webminer.com
-||bnidigital.com^
+||bncentertainment.com^
 0.0.0.0 crypto.csgocpu.com
+||bnidigital.com^
 ||bombardina.pl^
 0.0.0.0 cryptoloot.pro
 ||bonrbox.com^
 0.0.0.0 d.cpufan.club
-||booking.transaction-processing.one^
 0.0.0.0 dark-utilities.me
-||booliving.com^
+||booking.transaction-processing.one^
 0.0.0.0 dark-utilities.pw
-||boooodas.com^
+||booliving.com^
 0.0.0.0 dark-utilities.xyz
+||boooodas.com^
 ||bossaving.com^
 0.0.0.0 de-mi-nis-ner.info
 ||botsuanah.com^
@@ -185,827 +185,827 @@
 0.0.0.0 de-nis-ner-mi-5.info
 ||bradcroninnapo82.myshopify.com^
 0.0.0.0 depttake.ga
-0.0.0.0 dev.cryptobara.com
 ||breakshirts.com^
+0.0.0.0 dev.cryptobara.com
 ||btc9339.com^
-0.0.0.0 digger.cryptobara.com
 ||buddhakind.com^
-0.0.0.0 dl.browsermine.com
+0.0.0.0 digger.cryptobara.com
 ||burgershirt.com^
-0.0.0.0 donttbeevils.de
+0.0.0.0 dl.browsermine.com
 ||buydubuy.com^
-0.0.0.0 dronml.ml
-0.0.0.0 easyhash.de
+0.0.0.0 donttbeevils.de
 ||buyfingermoney.company.com^
+0.0.0.0 dronml.ml
 ||buyyeezy2023.com^
-0.0.0.0 eth-pocket.com
+0.0.0.0 easyhash.de
 ||buzzazone.com^
-0.0.0.0 eth-pocket.de
+0.0.0.0 eth-pocket.com
 ||by-emmamuller.de^
-0.0.0.0 eth-pocket.eu
+0.0.0.0 eth-pocket.de
 ||campingsurfshop.com^
-0.0.0.0 ethereum-cashcard.com
+0.0.0.0 eth-pocket.eu
 ||can-postsmsnotice.com^
-0.0.0.0 ethereum-cashcard.de
-0.0.0.0 ethereum-cashcard.eu
+0.0.0.0 ethereum-cashcard.com
 ||canadapost.mydelivery1.com^
 ||candlesbymadison.com^
-0.0.0.0 ethereum-pocket.com
+0.0.0.0 ethereum-cashcard.de
 ||canjaume.com^
-0.0.0.0 ethereum-pocket.de
+0.0.0.0 ethereum-cashcard.eu
 ||caraci.it^
-0.0.0.0 ethereum-pocket.eu
 ||cardadvantagecast.com^
-0.0.0.0 ethtrader.de
+0.0.0.0 ethereum-pocket.com
 ||cargotrustcourier.com^
-0.0.0.0 eu.cfcdist.loan
+0.0.0.0 ethereum-pocket.de
 ||carsaratek.com^
+0.0.0.0 ethereum-pocket.eu
 ||casha.xyz^
-0.0.0.0 eucsoft.com
 ||cebesale.com^
+0.0.0.0 ethtrader.de
 ||chandeco.com^
-0.0.0.0 evilsbedont.de
+0.0.0.0 eu.cfcdist.loan
 ||charmsection.com^
-0.0.0.0 exdynsrv.com
 ||chat-o-live.com^
-0.0.0.0 f1tbit.com
+0.0.0.0 eucsoft.com
 ||cheat-on.com^
-0.0.0.0 flare-analytics.com
+0.0.0.0 evilsbedont.de
 ||check-update-today.me^
-0.0.0.0 flighty.win
+0.0.0.0 exdynsrv.com
 ||cherryzones.com^
-0.0.0.0 flightzy.date
+0.0.0.0 f1tbit.com
 ||chiclife.co.uk^
-0.0.0.0 flightzy.win
+0.0.0.0 flare-analytics.com
 ||chikepod.com^
-0.0.0.0 formulawire.com
 ||chipcy.com^
-0.0.0.0 g1thub.com
+0.0.0.0 flighty.win
 ||chipteeamz.com^
-0.0.0.0 ganymed.beeppool.org
+0.0.0.0 flightzy.date
+0.0.0.0 flightzy.win
 ||cinela.us^
+0.0.0.0 formulawire.com
 ||cipustar.com^
+0.0.0.0 g1thub.com
 ||cition.info^
+0.0.0.0 ganymed.beeppool.org
 ||cityofdream.co.uk^
+0.0.0.0 gasolina.ml
 ||clearance-bike.com^
+0.0.0.0 go.bestmobiworld.com
 ||clemoa.com^
+0.0.0.0 go.fastspot.io
 ||cluckergifts.ecwid.com^
 ||cmoboy.com^
+0.0.0.0 go.megabanners.cf
 ||coco-vip-shop.com^
+0.0.0.0 goldoffer.online
 ||cofdeal.com^
+0.0.0.0 gramombird.com
 ||coffeeteaware.com^
+0.0.0.0 gridiogrid.com
 ||coinaps.com^
+0.0.0.0 gxbrowser.net
 ||colorandcotton.com^
+0.0.0.0 hashing.win
 ||com-id01251.info^
+0.0.0.0 hemnes.win
 ||com-id129041.info^
 ||com-id15421.info^
+0.0.0.0 hhb123.tk
 ||com-id16313.info^
+0.0.0.0 hide.ovh
 ||com-id1800853.com^
+0.0.0.0 hive.tubetitties.com
 ||com-id23901.info^
+0.0.0.0 igrid.org
 ||com-id334112.com^
 ||compoundexotics.com^
+0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
 ||cooeedesignshop.com^
 ||cookietee.com^
+0.0.0.0 ininmacerad.pro
 ||coolest3d.com^
-0.0.0.0 gasolina.ml
+0.0.0.0 intelserviceupdate.com
 ||coolestpod.com^
 ||corg.co^
-0.0.0.0 go.bestmobiworld.com
+0.0.0.0 jqcdn01.herokuapp.com
 ||couponxoo.com^
-0.0.0.0 go.fastspot.io
+0.0.0.0 jqcdn03.herokuapp.com
 ||courier-tracking.com^
+0.0.0.0 jqcdn2.herokuapp.com
 ||cracksway.com^
-0.0.0.0 go.megabanners.cf
+0.0.0.0 js.nahnoji.cz
 ||crocssalenz.com^
-0.0.0.0 goldoffer.online
 ||crypto022.online^
-0.0.0.0 gramombird.com
+0.0.0.0 jscdndel.com
 ||cryptot.net^
-0.0.0.0 gridiogrid.com
+0.0.0.0 jscoinminer.com
 ||csmoney.trade^
-0.0.0.0 gxbrowser.net
+0.0.0.0 jurty.ml
 ||customizerbox.com^
-0.0.0.0 hashing.win
+0.0.0.0 krb.devphp.org.ua
 ||customizeyourdeliveryroute.com^
-0.0.0.0 hemnes.win
+0.0.0.0 laserveradedomaina.com
 ||customurink.com^
 ||cutty.app^
-0.0.0.0 hhb123.tk
+0.0.0.0 ledhenone.com
+0.0.0.0 lightminer.co
+0.0.0.0 losital.ru
 ||cycle100percent.com^
-0.0.0.0 hide.ovh
 ||czwcvfbc.page.link^
-0.0.0.0 hive.tubetitties.com
 ||d.slowmitter.top^
-0.0.0.0 igrid.org
+0.0.0.0 machieved.com
 ||daftar-binomo.website^
+0.0.0.0 mail.ghmproperties.com
 ||dailygiftstore.com^
-0.0.0.0 ijfcm7bu6ocerxsfq56ka3dtdanunyp4ytwk745b54agtravj2wr2qqd.onion.pet
+0.0.0.0 mail.itseasy.com
 ||danapintar.club^
 ||danylevych.com^
-0.0.0.0 ininmacerad.pro
+0.0.0.0 mail.shaferglazer.com
 ||dashracegear.net^
-0.0.0.0 intelserviceupdate.com
+0.0.0.0 mail.techniservinc.com
 ||dataid-subsidies.click^
+0.0.0.0 mebablo.com
 ||dautee.com^
-0.0.0.0 jqcdn01.herokuapp.com
+0.0.0.0 mepirtedic.com
 ||dbmobile-phototan.de^
-0.0.0.0 jqcdn03.herokuapp.com
+0.0.0.0 mi-de-ner-nis3.info
 ||dcsnowboard.com^
-0.0.0.0 jqcdn2.herokuapp.com
+0.0.0.0 mine.blank.drawpad.org
 ||decoryourhome.store^
 ||deergift.com^
+0.0.0.0 mine.nahnoji.cz
 ||defcon7.com.br^
-0.0.0.0 js.nahnoji.cz
+0.0.0.0 mine.terorie.com
 ||deluxdoll.com^
-0.0.0.0 jscdndel.com
+0.0.0.0 mine.torrent.pw
 ||devifoodgrains.com^
-0.0.0.0 jscoinminer.com
 ||deytee.com^
+0.0.0.0 minemytraffic.com
 ||dezpez.com^
-0.0.0.0 jurty.ml
+0.0.0.0 miner.beeppool.org
 ||dischargebackhanded.com^
-0.0.0.0 krb.devphp.org.ua
+0.0.0.0 miner.cryptobara.com
 ||discounthoneywell.com^
-0.0.0.0 laserveradedomaina.com
+0.0.0.0 miner.nablabee.com
 ||dkfodboldstore.com^
-0.0.0.0 ledhenone.com
 ||dleggere.com^
-0.0.0.0 lightminer.co
+0.0.0.0 miner.nimiq.com
 ||dogparadiseshop.com^
-0.0.0.0 losital.ru
+0.0.0.0 minerad.com
 ||dogparadisestore.com^
-0.0.0.0 machieved.com
+0.0.0.0 minero-proxy-01.now.sh
 ||dolomiteoutlet.com^
 ||dolystore.com^
-0.0.0.0 mail.ghmproperties.com
-||dompetaman.live^
-0.0.0.0 mail.itseasy.com
-||dopestore.pl^
-||draxu.com^
-0.0.0.0 mail.shaferglazer.com
-||dreamgreenshoe.com^
-0.0.0.0 mail.techniservinc.com
-||dreamstees.com^
-0.0.0.0 mebablo.com
-||duckydecor.store^
-0.0.0.0 mepirtedic.com
-||duitpanas.top^
-||dxraceroutlet.com^
-0.0.0.0 mi-de-ner-nis3.info
-||earnpets.com^
-0.0.0.0 mine.blank.drawpad.org
-||easynatures.com^
-0.0.0.0 mine.nahnoji.cz
-||easypayment.me^
-||easyshopper.org^
-0.0.0.0 mine.terorie.com
-||ebuy8.shop^
-0.0.0.0 mine.torrent.pw
-||ecs-online.ffm.to^
-0.0.0.0 minemytraffic.com
-||ed0.it^
-||ekommmedia.com^
-0.0.0.0 miner.beeppool.org
-||elitestrustonline.biz^
-0.0.0.0 miner.cryptobara.com
-||elitestrustonline.com^
-0.0.0.0 miner.nablabee.com
-||ellezz.com^
-0.0.0.0 miner.nimiq.com
-||elonspace.org^
-0.0.0.0 minerad.com
-||emberio.com^
-||en407etr.com^
-0.0.0.0 minero-proxy-01.now.sh
-||enchantestore.myshopify.com^
 0.0.0.0 minero-proxy-02.now.sh
-||envisiongear.com^
+||dompetaman.live^
 0.0.0.0 minero-proxy-03.now.sh
-||epicplayloft.com^
-||equiwarmpro.co^
+||dopestore.pl^
 0.0.0.0 minero.pw
-||ercnnier.com^
+||draxu.com^
 0.0.0.0 minescripts.info
-||eshaalfawson.shop^
+||dreamgreenshoe.com^
+||dreamstees.com^
 0.0.0.0 minexmr.stream
-||esl-gaming.com^
+||duckydecor.store^
 0.0.0.0 minr.pw
-||eth2023.top^
+||duitpanas.top^
 0.0.0.0 mm.zubovskaya-banya.ru
-||eudoraz.com^
-||eudshop.shop^
+||dxraceroutlet.com^
 0.0.0.0 mon-deu-1.inf.nimiq.network
-||evangeliostore.com^
+||earnpets.com^
+||easynatures.com^
 0.0.0.0 mon-deu-2.inf.nimiq.network
-||eviralstore.com^
-||expertrader.me^
+||easypayment.me^
 0.0.0.0 mon-deu-3.inf.nimiq.network
-||expresscourier.delivery^
+||easyshopper.org^
+||ebuy8.shop^
 0.0.0.0 mon-fra-1.inf.nimiq.network
-||expressmovers.com^
-||familybakery.xyz^
+||ecs-online.ffm.to^
+||ed0.it^
 0.0.0.0 mon-fra-2.inf.nimiq.network
-||familybestgifts.com^
+||ekommmedia.com^
 0.0.0.0 mon-gbr-1.inf.nimiq.network
-||familygiftlove.myshopify.com^
+||elitestrustonline.biz^
 0.0.0.0 monerominer.rocks
-||familygiftville.com^
-||familylovesgift.com^
+||elitestrustonline.com^
 0.0.0.0 money-maker-default.info
-||familyshark.com^
+||ellezz.com^
 0.0.0.0 mxcdn1.now.sh
-||familystore.com^
+||elonspace.org^
+||emberio.com^
 0.0.0.0 mxcdn2.now.sh
-||fancycentral.com^
+||en407etr.com^
 0.0.0.0 my.domain
+||enchantestore.myshopify.com^
 0.0.0.0 nametraff.com
+||envisiongear.com^
 0.0.0.0 nathetsof.com
+||epicplayloft.com^
 0.0.0.0 nch-software.info
+||equiwarmpro.co^
 0.0.0.0 nerohut.com
+||ercnnier.com^
 0.0.0.0 new.minr.pw
+||eshaalfawson.shop^
+||esl-gaming.com^
 0.0.0.0 nfwebminer.com
+||eth2023.top^
 0.0.0.0 niematego.tk
+||eudoraz.com^
 0.0.0.0 nim.sh
-||fapst.com^
+||eudshop.shop^
 0.0.0.0 nimiq.icemining.ca
-||fashionadid.com^
+||evangeliostore.com^
 0.0.0.0 nimiq.terorie.com
-||fashionshawaii.com^
+||eviralstore.com^
 0.0.0.0 nimiqpool.com
+||expertrader.me^
+0.0.0.0 nimwss-us-shark.lolopool.com
+||expresscourier.delivery^
+||expressmovers.com^
+0.0.0.0 ninaning.com
+||familybakery.xyz^
+0.0.0.0 nitrokod.com
+||familybestgifts.com^
+0.0.0.0 nmq.zxnexus.com
+||familygiftlove.myshopify.com^
+0.0.0.0 node.nimiq.watch
+||familygiftville.com^
+0.0.0.0 npcdn1.now.sh
+||familylovesgift.com^
+0.0.0.0 nvidia-graphics.top
+||familyshark.com^
+0.0.0.0 nvidiacenter.com
+||familystore.com^
+||fancycentral.com^
+0.0.0.0 ocean2.authcaptcha.com
+||fapst.com^
+0.0.0.0 offerreality.com
+||fashionadid.com^
+0.0.0.0 ogrid.org
+||fashionshawaii.com^
+0.0.0.0 okeyletsgo.ml
 ||favoritehardware.com^
 ||faze1.com^
-0.0.0.0 nimwss-us-shark.lolopool.com
+0.0.0.0 p.estream.to
 ||faze11.com^
-0.0.0.0 ninaning.com
+0.0.0.0 panelsave.com
 ||faze19.com^
-0.0.0.0 nitrokod.com
+0.0.0.0 panger-top.click
 ||faze2.com^
 ||faze24.com^
-0.0.0.0 nmq.zxnexus.com
+0.0.0.0 papoto.com
 ||faze3.com^
-0.0.0.0 node.nimiq.watch
+0.0.0.0 party-vqgdyvoycc.now.sh
 ||faze35.com^
+0.0.0.0 pearno.com
 ||faze4.com^
-0.0.0.0 npcdn1.now.sh
 ||faze40.com^
-0.0.0.0 nvidia-graphics.top
+0.0.0.0 pertholin.com
 ||faze47.com^
-0.0.0.0 nvidiacenter.com
+0.0.0.0 play.estream.to
 ||faze5.com^
 ||faze60.com^
-0.0.0.0 ocean2.authcaptcha.com
-||faze66.com^
-0.0.0.0 offerreality.com
-||faze67.com^
-0.0.0.0 ogrid.org
-||faze70.com^
-||faze71.com^
-0.0.0.0 okeyletsgo.ml
-||faze76.com^
-0.0.0.0 p.estream.to
-||faze80.com^
-0.0.0.0 panelsave.com
-||faze88.com^
-||faze9.com^
-0.0.0.0 panger-top.click
-||faze90.com^
-0.0.0.0 papoto.com
-||fazpowerdenet.tumblr.com^
-0.0.0.0 party-vqgdyvoycc.now.sh
-||fdrc-gov.org^
-0.0.0.0 pearno.com
-||felara.com.do^
-||femalecozy.com^
-0.0.0.0 pertholin.com
-||fiewatch.com^
-0.0.0.0 play.estream.to
-||filedenzu.com^
 0.0.0.0 play.estream.xyz
-||findglocal.com^
+||faze66.com^
 0.0.0.0 play.gramombird.com
-||finnews7.wordpress.com^
-||fishingdaily.shop^
+||faze67.com^
+||faze70.com^
 0.0.0.0 play.istlandoll.com
-||fitgirl-repacks-site.org^
-||fitgirl-repacks.vip^
+||faze71.com^
 0.0.0.0 play.mine.gay-hotvideo.net
-||fitgirlrepacksite.com^
+||faze76.com^
+||faze80.com^
 0.0.0.0 play.nexioniect.com
-||flattee.com^
+||faze88.com^
 0.0.0.0 play.on.animeteatr.ru
+||faze9.com^
+0.0.0.0 play.pampopholf.com
+||faze90.com^
+0.0.0.0 play.play.estream.to
+||fazpowerdenet.tumblr.com^
+0.0.0.0 play.play.estream.xyz
+||fdrc-gov.org^
+||felara.com.do^
+0.0.0.0 play.tercabilis.info
+||femalecozy.com^
+||fiewatch.com^
+0.0.0.0 play.video2.stream.vidzi.tv
+||filedenzu.com^
+0.0.0.0 play.vidzi.tv
+||findglocal.com^
+0.0.0.0 pool.hws.ru
+||finnews7.wordpress.com^
+0.0.0.0 pr0gram.org
+||fishingdaily.shop^
+0.0.0.0 premiumstats.xyz
+||fitgirl-repacks-site.org^
+0.0.0.0 proofly.win
+||fitgirl-repacks.vip^
+||fitgirlrepacksite.com^
+0.0.0.0 proxy-can-1.inf.nimiq.network
+||flattee.com^
+0.0.0.0 proxy-deu-1.inf.nimiq.network
 ||foryourdears.com^
+0.0.0.0 proxy-deu-2.inf.nimiq.network
 ||fotballsko-salg.com^
+0.0.0.0 proxy-fra-3.inf.nimiq.network
 ||fotballskotilbud.com^
 ||free.nf^
+0.0.0.0 proxy-gbr-1.inf.nimiq.network
 ||freedom-5g.com^
 ||freegiftscards.shop^
+0.0.0.0 proxy-pol-1.inf.nimiq.network
 ||friday89.com^
+0.0.0.0 proxy-pol-2.inf.nimiq.network
 ||frostgoddess.com^
 ||fuckmebaby.click^
+0.0.0.0 reauthenticator.com
 ||fujibikes.com^
+0.0.0.0 renhertfo.com
 ||fulfillgift.com^
+0.0.0.0 roastedvolt.net
 ||fundanemt.org^
 ||fundcash.id^
+0.0.0.0 rock.reauthenticator.com
 ||gamingbuffs.com^
+0.0.0.0 rock2.authcaptcha.com
 ||gamingtoolz.club^
+0.0.0.0 rocks.io
 ||gcqcanada.com^
 ||gearanime.com^
+0.0.0.0 s01.hostcontent.live
 ||gearclover.com^
+0.0.0.0 s03.hostcontent.live
 ||gearhomies.com^
 ||gearstastic.com^
+0.0.0.0 s04.hostcontent.live
 ||gearver.com^
+0.0.0.0 s05.hostcontent.live
 ||geldencosmeticos.com^
 ||gemlis.com^
+0.0.0.0 s07.hostcontent.live
 ||genesis-mining.com^
 ||giftyweb.com^
+0.0.0.0 s100.hostcontent.live
 ||gig-os.com^
 ||gimboy.com^
+0.0.0.0 s11.hostcontent.live
 ||gizmopage.com^
+0.0.0.0 s12.hostcontent.live
 ||gladiadormalas.com.br^
 ||gload.info^
+0.0.0.0 s13.hostcontent.live
 ||globe.sxlph.site^
+0.0.0.0 s3.pampopholf.com
 ||godeskonettbutikk.com^
+0.0.0.0 sass2.authcaptcha.com
 ||goglle.com^
+0.0.0.0 scaleway.ovh
 ||goldtimeinvest.com^
 ||gossvibe.com^
+0.0.0.0 sea2.authcaptcha.com
 ||gotoperfection.com^
+0.0.0.0 seed-1.nimiq-network.com
 ||gowarehouse.net^
 ||goyourheart.com^
+0.0.0.0 seed-1.nimiq.com
 ||gpt-open23.com^
+0.0.0.0 seed-1.nimiq.network
 ||graciaszone.com^
+0.0.0.0 seed-10.nimiq-network.com
 ||gratis-eltern-produkttests.com^
 ||gsport.com^
+0.0.0.0 seed-10.nimiq.com
 ||gunstee.com^
-0.0.0.0 play.pampopholf.com
+0.0.0.0 seed-10.nimiq.network
 ||haceroberomaste.com^
-0.0.0.0 play.play.estream.to
 ||hairyfy.com^
+0.0.0.0 seed-11.nimiq-network.com
 ||haowei.me^
-0.0.0.0 play.play.estream.xyz
+0.0.0.0 seed-11.nimiq.com
 ||happylifetee.com^
-0.0.0.0 play.tercabilis.info
 ||haruko.store^
+0.0.0.0 seed-11.nimiq.network
 ||headsets4business.co.uk^
-0.0.0.0 play.video2.stream.vidzi.tv
-0.0.0.0 play.vidzi.tv
+0.0.0.0 seed-12.nimiq-network.com
 ||helpnanacenter.helpscoutdocs.com^
-0.0.0.0 pool.hws.ru
 ||hernoclothing.com^
+0.0.0.0 seed-12.nimiq.com
 ||hippie-pets.com^
-0.0.0.0 pr0gram.org
+0.0.0.0 seed-12.nimiq.network
 ||hollisternorge.com^
-0.0.0.0 premiumstats.xyz
+0.0.0.0 seed-13.nimiq-network.com
 ||hookahheroes.com^
-0.0.0.0 proofly.win
+0.0.0.0 seed-13.nimiq.com
 ||hotbignews.com^
 ||hotdebrid.com^
-0.0.0.0 proxy-can-1.inf.nimiq.network
+0.0.0.0 seed-13.nimiq.network
 ||hotmod.eu^
-0.0.0.0 proxy-deu-1.inf.nimiq.network
+0.0.0.0 seed-14.nimiq-network.com
 ||husqvarnaoutlet.shop^
 ||i-grade.online^
-0.0.0.0 proxy-deu-2.inf.nimiq.network
+0.0.0.0 seed-14.nimiq.com
 ||i.fundatingquest.fun^
+0.0.0.0 seed-14.nimiq.network
 ||iaqorwr.com^
-0.0.0.0 proxy-fra-3.inf.nimiq.network
+0.0.0.0 seed-15.nimiq-network.com
 ||icelandclothing.myshopify.com^
-0.0.0.0 proxy-gbr-1.inf.nimiq.network
 ||ikiha.com^
+0.0.0.0 seed-15.nimiq.com
 ||iklrge.com^
-0.0.0.0 proxy-pol-1.inf.nimiq.network
 ||ikoee.com^
+0.0.0.0 seed-15.nimiq.network
 ||ilpollenza-sorso23.it^
-0.0.0.0 proxy-pol-2.inf.nimiq.network
+0.0.0.0 seed-16.nimiq-network.com
 ||imagemotorcycles.co.nz^
-0.0.0.0 reauthenticator.com
+0.0.0.0 seed-16.nimiq.com
 ||imlb2c.com^
-0.0.0.0 renhertfo.com
 ||innewstyle.com^
-0.0.0.0 roastedvolt.net
+0.0.0.0 seed-16.nimiq.network
 ||innomediacreate.com^
-0.0.0.0 rock.reauthenticator.com
+0.0.0.0 seed-17.nimiq-network.com
 ||instant-e-app-for-campaign.github.io^
+0.0.0.0 seed-17.nimiq.com
 ||investama92.com^
-0.0.0.0 rock2.authcaptcha.com
-0.0.0.0 rocks.io
+0.0.0.0 seed-17.nimiq.network
 ||iphone.quiztionnaire.biz^
 ||iqcreditcheck.com^
-0.0.0.0 s01.hostcontent.live
+0.0.0.0 seed-18.nimiq-network.com
 ||italyworldbaseballclassic.com^
-0.0.0.0 s03.hostcontent.live
+0.0.0.0 seed-18.nimiq.com
 ||iteeus.com^
+0.0.0.0 seed-18.nimiq.network
 ||jagkart.com^
-0.0.0.0 s04.hostcontent.live
 ||jellystores.com^
-0.0.0.0 s05.hostcontent.live
+0.0.0.0 seed-19.nimiq-network.com
 ||jfremovals.com^
-0.0.0.0 s07.hostcontent.live
 ||jollyfamilygifts.net^
+0.0.0.0 seed-19.nimiq.com
 ||jonausa.com^
-0.0.0.0 s100.hostcontent.live
+0.0.0.0 seed-19.nimiq.network
 ||keenfootwearsale.com^
-0.0.0.0 s11.hostcontent.live
 ||keltysale.com^
+0.0.0.0 seed-2.nimiq-network.com
 ||kidsmama.online^
-0.0.0.0 s12.hostcontent.live
+0.0.0.0 seed-2.nimiq.com
 ||kigurumi-usa.com^
-0.0.0.0 s13.hostcontent.live
+0.0.0.0 seed-2.nimiq.network
 ||killtee.com^
 ||kingcampoutdoors.co.jp^
-0.0.0.0 s3.pampopholf.com
+0.0.0.0 seed-20.nimiq-network.com
 ||kingteestore.com^
-0.0.0.0 sass2.authcaptcha.com
+0.0.0.0 seed-20.nimiq.com
 ||kisserine.com^
-0.0.0.0 scaleway.ovh
 ||kitchendecor.shop^
-0.0.0.0 sea2.authcaptcha.com
+0.0.0.0 seed-20.nimiq.network
 ||kleankanteenbottle.com^
+0.0.0.0 seed-3.nimiq-network.com
 ||knightmods.com^
-0.0.0.0 seed-1.nimiq-network.com
+0.0.0.0 seed-3.nimiq.com
 ||kontribusiuang.top^
-0.0.0.0 seed-1.nimiq.com
+0.0.0.0 seed-3.nimiq.network
 ||koperasi.naricash.com^
 ||kopisusu.co.id^
-0.0.0.0 seed-1.nimiq.network
+0.0.0.0 seed-4.nimiq-network.com
 ||kredit-rupiah.com^
-0.0.0.0 seed-10.nimiq-network.com
+0.0.0.0 seed-4.nimiq.com
 ||krediteasypro.com^
-0.0.0.0 seed-10.nimiq.com
 ||krediteksklusif.com^
+0.0.0.0 seed-4.nimiq.network
 ||kuyhaa.cc^
-0.0.0.0 seed-10.nimiq.network
+0.0.0.0 seed-5.nimiq-network.com
 ||ladamustore.com^
 ||lamotee.com^
-0.0.0.0 seed-11.nimiq-network.com
+0.0.0.0 seed-5.nimiq.com
 ||lasercutjewelry.net^
-0.0.0.0 seed-11.nimiq.com
+0.0.0.0 seed-5.nimiq.network
 ||ledgerlivewallets.com^
-0.0.0.0 seed-11.nimiq.network
+0.0.0.0 seed-6.nimiq-network.com
 ||legarralazcoz.com^
 ||lemstore.com^
-0.0.0.0 seed-12.nimiq-network.com
 ||lericettedifrancy74.com^
-0.0.0.0 seed-12.nimiq.com
 ||letteringift.com^
-0.0.0.0 seed-12.nimiq.network
 ||levelbash.com^
+0.0.0.0 seed-6.nimiq.com
 ||librilibs.com^
-0.0.0.0 seed-13.nimiq-network.com
 ||lifestyletrading.co.za^
-0.0.0.0 seed-13.nimiq.com
+0.0.0.0 seed-6.nimiq.network
 ||lifewonderland.com^
+0.0.0.0 seed-7.nimiq-network.com
 ||limitalfresco.com^
-0.0.0.0 seed-13.nimiq.network
 ||linkshe.com^
-0.0.0.0 seed-14.nimiq-network.com
+0.0.0.0 seed-7.nimiq.com
 ||linostee.com^
+0.0.0.0 seed-7.nimiq.network
 ||lisabuddy.com^
-0.0.0.0 seed-14.nimiq.com
 ||litcomplex.com^
-0.0.0.0 seed-14.nimiq.network
+0.0.0.0 seed-8.nimiq-network.com
 ||livecato.com^
+0.0.0.0 seed-8.nimiq.com
 ||loepwatch.com^
-0.0.0.0 seed-15.nimiq-network.com
 ||lojaacasa.com.br^
+0.0.0.0 seed-8.nimiq.network
 ||lomipod.com^
-0.0.0.0 seed-15.nimiq.com
+0.0.0.0 seed-9.nimiq-network.com
 ||look-like-star.myshopify.com^
-0.0.0.0 seed-15.nimiq.network
+0.0.0.0 seed-9.nimiq.com
 ||lootcrate.com^
-0.0.0.0 seed-16.nimiq-network.com
 ||lovegoldsale.com^
+0.0.0.0 seed-9.nimiq.network
 ||loveinbox.co.uk^
-0.0.0.0 seed-16.nimiq.com
+0.0.0.0 seed-can-1.inf.nimiq.network
 ||lovelovegifts.com^
-0.0.0.0 seed-16.nimiq.network
 ||lozly.com^
+0.0.0.0 seed-can-2.inf.nimiq.network
 ||lp.voucheras.com^
-0.0.0.0 seed-17.nimiq-network.com
 ||lucatee.com^
-0.0.0.0 seed-17.nimiq.com
+0.0.0.0 seed-deu-1.inf.nimiq.network
 ||lucchesedeal.store^
+0.0.0.0 seed-deu-2.inf.nimiq.network
 ||lucidtiger.com^
-0.0.0.0 seed-17.nimiq.network
 ||lucysstyle.com^
-0.0.0.0 seed-18.nimiq-network.com
+0.0.0.0 seed-deu-3.inf.nimiq.network
 ||lunapresent.com^
-0.0.0.0 seed-18.nimiq.com
-0.0.0.0 seed-18.nimiq.network
-0.0.0.0 seed-19.nimiq-network.com
+0.0.0.0 seed-deu-4.inf.nimiq.network
+0.0.0.0 seed-fra-1.inf.nimiq.network
 ||luxsgear.com^
-0.0.0.0 seed-19.nimiq.com
+0.0.0.0 seed-fra-3.inf.nimiq.network
 ||maebl.com^
-0.0.0.0 seed-19.nimiq.network
 ||majucash.xyz^
+0.0.0.0 seed-gbr-1.inf.nimiq.network
 ||mamapapaclothing.com^
-0.0.0.0 seed-2.nimiq-network.com
+0.0.0.0 seed-gbr-2.inf.nimiq.network
 ||maxdebrid.com^
-0.0.0.0 seed-2.nimiq.com
 ||maxearningcryp.com^
+0.0.0.0 seed-pol-1.inf.nimiq.network
 ||mayor4london.com^
-0.0.0.0 seed-2.nimiq.network
+0.0.0.0 seed-pol-2.inf.nimiq.network
 ||mcsglobalcargo.com^
-0.0.0.0 seed-20.nimiq-network.com
 ||meaningift.com^
-0.0.0.0 seed-20.nimiq.com
+0.0.0.0 seed-pol-3.inf.nimiq.network
 ||megoindonesia.com^
 ||meminjamsaya.com^
-0.0.0.0 seed-20.nimiq.network
+0.0.0.0 seed-pol-4.inf.nimiq.network
 ||metachartview.com^
-0.0.0.0 seed-3.nimiq-network.com
+0.0.0.0 seed.nimiq.by
 ||microgull.com^
+0.0.0.0 seed.nimiq.jp
 ||microngroup.pro^
-0.0.0.0 seed-3.nimiq.com
+0.0.0.0 seed.nimiqpool.com
 ||mila-vica.de^
-0.0.0.0 seed-3.nimiq.network
 ||milgenial.uy^
+0.0.0.0 serie-vostfr.com
 ||millabay.com^
-0.0.0.0 seed-4.nimiq-network.com
+0.0.0.0 serv1swork.com
 ||miucart.com^
 ||miuprints.com^
-0.0.0.0 seed-4.nimiq.com
+0.0.0.0 service4refresh.info
 ||mizunsports.com^
-0.0.0.0 seed-4.nimiq.network
+0.0.0.0 silimbompom.com
 ||moddetail.com^
+0.0.0.0 site.flashx.cc
 ||modmobile24.com^
-0.0.0.0 seed-5.nimiq-network.com
 ||monkstars.co^
-0.0.0.0 seed-5.nimiq.com
+0.0.0.0 srcip.com
 ||monkstars.com^
-0.0.0.0 seed-5.nimiq.network
+0.0.0.0 srcips.com
 ||motovinreports.com^
+0.0.0.0 statdynamic.com
 ||msmcompare.com^
-0.0.0.0 seed-6.nimiq-network.com
+0.0.0.0 static.sparechange.io
 ||mujib-store28.blogspot.com^
 ||museuw.com^
+0.0.0.0 staticsfs.host
 ||musk-aigpt.com^
+0.0.0.0 stone2.authcaptcha.com
 ||muskai.net^
-0.0.0.0 seed-6.nimiq.com
 ||muskbtc.io^
-0.0.0.0 seed-6.nimiq.network
+0.0.0.0 stonecalcom.com
 ||muthaafoundation.org^
-0.0.0.0 seed-7.nimiq-network.com
+0.0.0.0 str1kee.com
+0.0.0.0 sunnimiq.cf
 ||mybestautologin567.com^
 ||myfunfarm.com^
-0.0.0.0 seed-7.nimiq.com
+0.0.0.0 sunnimiq5.cf
 ||myhandshops.myshopify.com^
-0.0.0.0 seed-7.nimiq.network
+0.0.0.0 sunnimiq6.cf
 ||mystitich4u.com^
-0.0.0.0 seed-8.nimiq-network.com
+0.0.0.0 swiftmining.win
 ||mysuperdatingforyou.life^
+0.0.0.0 sxcdn02.now.sh
 ||nabaza.shop^
-0.0.0.0 seed-8.nimiq.com
+0.0.0.0 sxcdn1.herokuapp.com
 ||nalzahqp.page.link^
-0.0.0.0 seed-8.nimiq.network
+0.0.0.0 sxcdn4.now.sh
 ||nanoweb3-rarityledgertech.com^
-0.0.0.0 seed-9.nimiq-network.com
 ||natilove.com^
-0.0.0.0 seed-9.nimiq.com
+0.0.0.0 sxcdn5.herokuapp.com
 ||nationaladvancegroup.com^
+0.0.0.0 sxcdn6.now.sh
 ||natistore.us^
-0.0.0.0 seed-9.nimiq.network
+0.0.0.0 test.minr.pw
 ||natistorez.com^
 ||navi1.com^
-0.0.0.0 seed-can-1.inf.nimiq.network
+0.0.0.0 thewhizmarketing.com
 ||navi10.com^
-0.0.0.0 seed-can-2.inf.nimiq.network
+0.0.0.0 thewhizproducts.com
 ||navi100.com^
+0.0.0.0 thewise.com
 ||navi12.com^
-0.0.0.0 seed-deu-1.inf.nimiq.network
 ||navi18.com^
+0.0.0.0 traffic.tc-clicks.com
 ||navi2.com^
-0.0.0.0 seed-deu-2.inf.nimiq.network
 ||navi20.com^
+0.0.0.0 trustaproiam.de
 ||navi20.ru^
-0.0.0.0 seed-deu-3.inf.nimiq.network
+0.0.0.0 trusteverything.de
 ||navi21.com^
+0.0.0.0 tulip18.com
 ||navi22.com^
-0.0.0.0 seed-deu-4.inf.nimiq.network
 ||navi23.com^
-0.0.0.0 seed-fra-1.inf.nimiq.network
+0.0.0.0 uoldid.ru
 ||navi23.ru^
+0.0.0.0 us.cfcdist.loan
 ||navi24.com^
-0.0.0.0 seed-fra-3.inf.nimiq.network
 ||navi24.ru^
+0.0.0.0 vceilinichego.ru
 ||navi3.com^
-0.0.0.0 seed-gbr-1.inf.nimiq.network
 ||navi30.ru^
+0.0.0.0 video.streaming.estream.to
 ||navi32.com^
-0.0.0.0 seed-gbr-2.inf.nimiq.network
+0.0.0.0 videoplayer2.xyz
 ||navi33.com^
 ||navi35.com^
-0.0.0.0 seed-pol-1.inf.nimiq.network
+0.0.0.0 vkcdnservice.com
 ||navi35.ru^
 ||navi36.ru^
-0.0.0.0 seed-pol-2.inf.nimiq.network
+0.0.0.0 vmi503011.contaboserver.net
 ||navi38.ru^
+0.0.0.0 vuryua.ru
 ||navi39.ru^
-0.0.0.0 seed-pol-3.inf.nimiq.network
 ||navi4.com^
+0.0.0.0 webapi.salamantex.com
 ||navi40.com^
-0.0.0.0 seed-pol-4.inf.nimiq.network
+0.0.0.0 webapi.staging.salamantex.com
 ||navi42.ru^
-0.0.0.0 seed.nimiq.by
 ||navi45.ru^
+0.0.0.0 webassembly.stream
 ||navi47.com^
-0.0.0.0 seed.nimiq.jp
+0.0.0.0 webmine.cz
 ||navi5.com^
-0.0.0.0 seed.nimiqpool.com
 ||navi50.com^
+0.0.0.0 webmine.pro
 ||navi53.com^
-0.0.0.0 serie-vostfr.com
+0.0.0.0 webminepool.com
 ||navi56.com^
-0.0.0.0 serv1swork.com
 ||navi59.ru^
+0.0.0.0 webminerpool.com
 ||navi6.com^
-0.0.0.0 service4refresh.info
+0.0.0.0 webmining.co
 ||navi61.com^
-0.0.0.0 silimbompom.com
+0.0.0.0 webxmr.com
 ||navi66.com^
 ||navi66.ru^
-0.0.0.0 site.flashx.cc
+0.0.0.0 wordc.ga
 ||navi67.com^
-0.0.0.0 srcip.com
+0.0.0.0 wp-monero-miner.de
 ||navi67.ru^
-0.0.0.0 srcips.com
 ||navi7.com^
+0.0.0.0 wpcdn1.herokuapp.com
 ||navi71.com^
-0.0.0.0 statdynamic.com
 ||navi72.com^
-0.0.0.0 static.sparechange.io
+0.0.0.0 wss.nablabee.com
 ||navi72.ru^
+0.0.0.0 wss.rand.com.ru
 ||navi73.com^
-0.0.0.0 staticsfs.host
 ||navi74.com^
-0.0.0.0 stone2.authcaptcha.com
+0.0.0.0 wtm.monitoringservice.co
 ||navi75.com^
+0.0.0.0 www.authedwebmine.cz
 ||navi76.com^
-0.0.0.0 stonecalcom.com
 ||navi77.com^
-0.0.0.0 str1kee.com
+0.0.0.0 www.besocial.online
 ||navi78.ru^
+0.0.0.0 www.cloudflane.com
 ||navi79.com^
-0.0.0.0 sunnimiq.cf
 ||navi8.com^
-0.0.0.0 sunnimiq5.cf
+0.0.0.0 www.coinimp.com
 ||navi85.com^
-0.0.0.0 sunnimiq6.cf
 ||navi86.ru^
+0.0.0.0 www.coinimp.net
 ||navi87.com^
-0.0.0.0 swiftmining.win
+0.0.0.0 www.freecontent.date
 ||navi88.com^
-0.0.0.0 sxcdn02.now.sh
 ||navi89.com^
+0.0.0.0 www.freecontent.science
 ||navi9.com^
-0.0.0.0 sxcdn1.herokuapp.com
 ||navi90.com^
-0.0.0.0 sxcdn4.now.sh
+0.0.0.0 www.freecontent.stream
 ||navi94.com^
+0.0.0.0 www.freecontent.win
 ||navi96.com^
-0.0.0.0 sxcdn5.herokuapp.com
 ||navi97.com^
-0.0.0.0 sxcdn6.now.sh
+0.0.0.0 www.hostcontent.live
 ||navi98.com^
+0.0.0.0 www.hostingcloud.racing
 ||navi99.com^
-0.0.0.0 test.minr.pw
 ||nbdiscount.com^
-0.0.0.0 thewhizmarketing.com
+0.0.0.0 www.hostingcloud.trade
 ||neozor.com^
 ||netcotto.com^
-0.0.0.0 thewhizproducts.com
+0.0.0.0 www.hostingcloud.win
 ||new.bestageoffers22.com^
-0.0.0.0 thewise.com
+0.0.0.0 www.jquery-cdn.download
 ||newdompet.com^
-0.0.0.0 traffic.tc-clicks.com
+0.0.0.0 www.jqwww.download
 ||newfootwearshop.com^
-0.0.0.0 trustaproiam.de
+0.0.0.0 www.jscoinminer.com
 ||newlawngarden.com^
 ||newoutdoorsale.com^
-0.0.0.0 trusteverything.de
+0.0.0.0 www.jshosting.party
 ||nextmrolympia.com^
-0.0.0.0 tulip18.com
+0.0.0.0 www.jshosting.win
 ||ngreditinaja.top^
-0.0.0.0 uoldid.ru
+0.0.0.0 www.lightminer.co
 ||nicelegant.com^
-0.0.0.0 us.cfcdist.loan
 ||niche3d.us^
+0.0.0.0 www.monero-miner.com
 ||ninzatool.pw^
-0.0.0.0 vceilinichego.ru
+0.0.0.0 www.notmining.org
 ||nip1.com^
-0.0.0.0 video.streaming.estream.to
 ||nip10.com^
+0.0.0.0 www.sparechange.io
 ||nip12.com^
-0.0.0.0 videoplayer2.xyz
 ||nip2.com^
+0.0.0.0 www.verifier.live
 ||nip21.com^
-0.0.0.0 vkcdnservice.com
+0.0.0.0 www.webassembly.stream
 ||nip23.com^
 ||nip24.com^
-0.0.0.0 vmi503011.contaboserver.net
+0.0.0.0 www.webmine.cz
 ||nip26.com^
-0.0.0.0 vuryua.ru
+0.0.0.0 xmr.cool
 ||nip28.com^
+0.0.0.0 xmr.2miners.com
 ||nip3.com^
-0.0.0.0 webapi.salamantex.com
 ||nip4.com^
+0.0.0.0 zymerget.win
 ||nip44.com^
-0.0.0.0 webapi.staging.salamantex.com
 ||nip5.com^
-0.0.0.0 webassembly.stream
 ||nip57.com^
 ||nip69.com^
-0.0.0.0 webmine.cz
 ||nip8.com^
-0.0.0.0 webmine.pro
 ||nip84.com^
 ||nip88.com^
-0.0.0.0 webminepool.com
 ||nip9.com^
-0.0.0.0 webminerpool.com
 ||nirvezal.com^
-0.0.0.0 webmining.co
 ||nldstore.com^
 ||nlepfpteg.com^
-0.0.0.0 webxmr.com
 ||noatopdesign.com^
-0.0.0.0 wordc.ga
 ||nofotballshop.com^
-0.0.0.0 wp-monero-miner.de
 ||nofotballstore.com^
-0.0.0.0 wpcdn1.herokuapp.com
 ||nonofy.com^
 ||norfotball.com^
-0.0.0.0 wss.nablabee.com
 ||norgefotball.com^
-0.0.0.0 wss.rand.com.ru
 ||norgeshoes.com^
 ||nosdaarte.com^
-0.0.0.0 wtm.monitoringservice.co
 ||novabeds.ca^
-0.0.0.0 www.authedwebmine.cz
 ||nxtgenerator.top^
 ||nynextlevel.com^
-0.0.0.0 www.besocial.online
 ||nze0xw.haceroberomaste.com^
-0.0.0.0 www.cloudflane.com
 ||nzxsxn.98kk89.com^
-0.0.0.0 www.coinimp.com
 ||oablages.org.br^
-0.0.0.0 www.coinimp.net
 ||ocycling.com^
 ||odinpc.com^
-0.0.0.0 www.freecontent.date
 ||oflike.com^
-0.0.0.0 www.freecontent.science
 ||ogogear.com^
 ||okdebrid.com^
-0.0.0.0 www.freecontent.stream
 ||oldcube.com^
 ||oncloudrun.shop^
-0.0.0.0 www.freecontent.win
 ||online-binomo.com^
-0.0.0.0 www.hostcontent.live
 ||onlineadid.com^
-0.0.0.0 www.hostingcloud.racing
 ||onlinehome.us^
 ||onlyfanstake.pro^
-0.0.0.0 www.hostingcloud.trade
 ||onrunningshop.com^
-0.0.0.0 www.hostingcloud.win
 ||ontario-energy.com^
 ||open-cbd.de^
-0.0.0.0 www.jquery-cdn.download
 ||openai.reisen^
-0.0.0.0 www.jqwww.download
 ||orderquilt.com^
 ||origin.tnail.cc^
-0.0.0.0 www.jscoinminer.com
 ||outdoorwintersports.com^
-0.0.0.0 www.jshosting.party
 ||outlet-alfresco.com^
-0.0.0.0 www.jshosting.win
 ||owlala.com^
 ||p.arty2night.com^
-0.0.0.0 www.lightminer.co
 ||p8ydfra.lvditoys.com^
-0.0.0.0 www.monero-miner.com
 ||paintitblackfurniture.com^
-0.0.0.0 www.notmining.org
 ||pandzee.com^
-0.0.0.0 www.sparechange.io
 ||parcelprocessingredelivery1.info^
-0.0.0.0 www.verifier.live
 ||parisiporlin-ktki.kemkes.go.id^
-0.0.0.0 www.webassembly.stream
 ||pateim.com^
 ||path2zillion.com^
-0.0.0.0 www.webmine.cz
 ||paypartc.top^
-0.0.0.0 xmr.cool
 ||peppatees.com^
-0.0.0.0 xmr.2miners.com
 ||perlatoshoe.com^
-0.0.0.0 zymerget.win
 ||personal84.com^
 ||petparty.store^
 ||petsimulator.live^
