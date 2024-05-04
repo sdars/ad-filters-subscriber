@@ -19,6 +19,7 @@ application:
     remote:
       - name: 'adblock-nocoin-list'
         path: 'https://cdn.jsdelivr.net/gh/hoshsadiq/adblock-nocoin-list/hosts.txt' 
+#KoolProxy规则
       - name: 'Scam Blocklist'
         path: 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt'
         
