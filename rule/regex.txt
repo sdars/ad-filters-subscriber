@@ -1,10 +1,12 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-04 02:06:26
+! Last Modified: 2024-05-04 08:00:30
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-||adv0*.msa.cdn.mediaset.net^
-||reachableads-av.*.amazonaws.com^
+||yandex.avito.sber*
+||booklng.com-*
+||booking.com-id*
+naws.com^
 ||ads*.textra.me^
 ||ads-*-nfl.yinzcam.com^
 ||aan.amazon.*^
