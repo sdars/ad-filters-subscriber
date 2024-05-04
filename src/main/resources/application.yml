@@ -23,9 +23,6 @@ application:
       - name: 'Scam Blocklist'
         path: 'https://cdn.jsdelivr.net/gh/durablenapkin/scamblocklist/adguard.txt'
         
-      - name: 'Dan Pollock's List'
-        path: 'https://someonewhocares.org/hosts/zero/hosts'
-        
     #本地规则文件
     local:
       - name: 'local rule'
