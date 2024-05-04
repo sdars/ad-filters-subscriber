@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: hosts.txt
-! Last Modified: 2024-05-04 16:55:34
+! Last Modified: 2024-05-04 17:04:04
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 127.0.0.1 livew.l.qq.com #-> 腾讯视频
