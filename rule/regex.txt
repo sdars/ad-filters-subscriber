@@ -1,14 +1,26 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-04 17:18:40
+! Last Modified: 2024-05-04 17:26:37
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
 *.*.storage.live.com
+@@cdn.*.qq.com
 *.*.storage.msn.com
+@@*.myapp.com
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
@@ -31,10 +43,12 @@
 *.groups.office.live.com
 *.groups.photos.live.com
 *.groups.skydrive.live.com
+@@||*.imtt.qq.com^$important
 *.icedrive.io
 *.ip6.arpa
 *.karere.mega.nz
 *.livefilestore.com
+@@||*.lol.qq.com^$important
 *.mesh.com
 *.mwbsys.com
 *.office.com
@@ -44,6 +58,7 @@
 *.phncdn.com
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
+@@||*.y.qq.com^$important
 *.settings.live.net
 *.sonicbit.net
 *.storage.live.com
@@ -54,27 +69,12 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
 a-*.a-msedge.net
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
 accounts.google.com.*
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
 @@||*.img.mobile.sina.cn^$important
-avatars*.githubusercontent.com
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
+avatars*.githubusercontent.com
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
 cdn*-pic.xvideos-cdn.com
