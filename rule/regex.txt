@@ -1,17 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-05 00:18:33
+! Last Modified: 2024-05-05 09:13:24
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -20,7 +11,6 @@
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
-@@||*.alipay.com^$important
 *.battle.net
 *.bootstrap.libp2p.io
 *.branch.io
@@ -39,9 +29,7 @@
 *.github.io
 *.gravatar.com
 *.groups.office.live.com
-@@cdn.*.qq.com
 *.groups.photos.live.com
-@@*.myapp.com
 *.groups.skydrive.live.com
 *.icedrive.io
 *.ip6.arpa
@@ -58,9 +46,6 @@
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
 *.sonicbit.net
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
@@ -70,17 +55,32 @@
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
-@@||*.img.mobile.sina.cn^$important
 accounts.google.com.*
+avatars*.githubusercontent.com
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+cdn*-pic.xvideos-cdn.com
+cdn*-vid.xvideos-cdn.com
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+d*.debrid.link
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
-@@*.flyme.cn
-avatars*.githubusercontent.com
-cdn*-pic.xvideos-cdn.com
-cdn*-vid.xvideos-cdn.com
-d*.debrid.link
 dual-a-*.a-msedge.net
+@@*.flyme.cn
 galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
