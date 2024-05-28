@@ -1,8 +1,28 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-05-28 16:22:04
+! Last Modified: 2024-05-29 00:20:02
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -14,8 +34,6 @@
 *.battle.net
 *.bootstrap.libp2p.io
 *.branch.io
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
 *.cdn.snapcraft.io
 *.cdnrobot.xyz
 *.cloudfront.net
@@ -26,11 +44,9 @@
 *.docs.live.net
 *.fandom.com
 *.files.1drv.com
-@@||*.video.xiaomi.com^$important
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
 *.github.io
-@@||v*-dc-ad.ixigua.com^$important
 *.gravatar.com
 *.groups.office.live.com
 *.groups.photos.live.com
@@ -48,15 +64,9 @@
 *.phncdn.com
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
 *.settings.live.net
 *.sonicbit.net
 *.storage.live.com
-@@||*.alipay.com^$important
 *.storage.msn.com
 *.update.microsoft.com
 *.userstorage.mega.co.nz
@@ -64,18 +74,8 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-@@cdn.*.qq.com
-@@*.myapp.com
 a-*.a-msedge.net
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
 accounts.google.com.*
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
