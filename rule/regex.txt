@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-04 16:20:39
+! Last Modified: 2024-06-05 00:21:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
@@ -18,6 +18,11 @@
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
 @@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -35,7 +40,6 @@
 *.delivery.mp.microsoft.com
 *.deviantart.com
 *.disquscdn.com
-@@||*.img.mobile.sina.cn^$important
 *.dl.delivery.mp.microsoft.com
 *.docs.live.net
 *.fandom.com
@@ -56,8 +60,6 @@
 *.office.com
 *.officeapps.live.com
 *.onedrive.com
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 *.onedrive.live.com
 *.phncdn.com
 *.policies.live.net
@@ -74,8 +76,6 @@
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
 accounts.google.com.*
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
