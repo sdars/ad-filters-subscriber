@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-06-20 16:21:40
+! Last Modified: 2024-06-21 00:22:29
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -45,25 +45,30 @@
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
-@@||*.mi-img.com^$important
 *.sonicbit.net
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
 *.userstorage.mega.co.nz
-@@||*.micloud.xiaomi.net^$important
 *.wns.windows.com
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
+a-*.a-msedge.net
+accounts.google.com.*
+avatars*.githubusercontent.com
+cdn*-pic.xvideos-cdn.com
+cdn*-vid.xvideos-cdn.com
+d*.debrid.link
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
-a-*.a-msedge.net
+dual-a-*.a-msedge.net
 @@||*.market.xiaomi.com^$important
 @@||*.market.mi-img.com^$important
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
-accounts.google.com.*
 @@||*.alipay.com^
 @@||*.alipay.com^$important
 @@cdn.*.qq.com
@@ -74,13 +79,8 @@ accounts.google.com.*
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
-avatars*.githubusercontent.com
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
-cdn*-pic.xvideos-cdn.com
-cdn*-vid.xvideos-cdn.com
-d*.debrid.link
-dual-a-*.a-msedge.net
 galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
