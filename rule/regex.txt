@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-02 09:14:46
+! Last Modified: 2024-07-02 16:21:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -63,13 +63,12 @@ d*.debrid.link
 dual-a-*.a-msedge.net
 galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
-images-*.gog-statics.com
-img-*.xvideos-cdn.com
-ocsp*.globalsign.com
 @@||*.mi-img.com^$important
+images-*.gog-statics.com
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
+img-*.xvideos-cdn.com
 @@||*.market.xiaomi.com^$important
 @@||*.market.mi-img.com^$important
 @@||f*.market.xiaomi.com^$important
@@ -80,14 +79,15 @@ ocsp*.globalsign.com
 @@*.myapp.com
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
-qos*.ol.epicgames.com
 @@||*.y.qq.com^$important
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
-seed*.debrid.link
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
+ocsp*.globalsign.com
+qos*.ol.epicgames.com
+seed*.debrid.link
 st*.debrid.link
 static-*-cdn.eporner.com
 static-*.xvideos-cdn.com
