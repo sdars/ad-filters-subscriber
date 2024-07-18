@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-07-18 16:21:35
+! Last Modified: 2024-07-19 00:21:03
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
@@ -12,14 +12,7 @@
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
 @@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
 *-ebgames.eb-cdn.com.au
-@@||*.img.mobile.sina.cn^$important
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
@@ -42,13 +35,12 @@
 *.files.1drv.com
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
-@@||*.twimg.com^$important
 *.github.io
 *.gravatar.com
-@@||*.cdninstagram.com^$important
 *.groups.office.live.com
 *.groups.photos.live.com
 *.groups.skydrive.live.com
+@@||*.alipay.com^$important
 *.icedrive.io
 *.ip6.arpa
 *.karere.mega.nz
@@ -62,6 +54,8 @@
 *.phncdn.com
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
+@@cdn.*.qq.com
+@@*.myapp.com
 *.settings.live.net
 *.sonicbit.net
 *.storage.live.com
@@ -72,10 +66,16 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-@@||*.gtimg.cn^$important
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
 a-*.a-msedge.net
-@@*.flyme.cn
+@@||*.y.qq.com^$important
 accounts.google.com.*
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
