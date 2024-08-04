@@ -1,11 +1,11 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2024-08-04 09:22:28
+! Last Modified: 2024-08-04 16:19:14
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 @@||file.market.xiaomi.com^$importantcdn.ark.qq.com
 @@||connect.rom.miui.com/generate_204^$important
-@@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 @@||reddit
 _dnsaddr.bootstrap.libp2p.io
 _dnsaddr.ipfs.lubar.me
