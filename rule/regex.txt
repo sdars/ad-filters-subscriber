@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-10 09:18:14
+! Last Modified: 2024-08-10 16:20:31
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
@@ -15,6 +15,14 @@
 @@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -49,33 +57,25 @@
 *.livefilestore.com
 *.mesh.com
 *.mwbsys.com
-@@||*.imtt.qq.com^$important
 *.office.com
 *.officeapps.live.com
 *.onedrive.com
 *.onedrive.live.com
 *.phncdn.com
 *.policies.live.net
-@@||*.lol.qq.com^$important
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
 *.sonicbit.net
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
-@@||*.y.qq.com^$important
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-@@||*.img.mobile.sina.cn^$important
 a-*.a-msedge.net
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 accounts.google.com.*
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
