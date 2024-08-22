@@ -1,17 +1,31 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-22 09:19:24
+! Last Modified: 2024-08-22 16:21:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
+@@||*.imtt.qq.com^$important
 *.*.storage.live.com
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
+@@||*.lol.qq.com^$important
 *.bootstrap.libp2p.io
 *.branch.io
 *.cdn.snapcraft.io
@@ -20,6 +34,7 @@
 *.delivery.mp.microsoft.com
 *.deviantart.com
 *.disquscdn.com
+@@||*.y.qq.com^$important
 *.dl.delivery.mp.microsoft.com
 *.docs.live.net
 *.fandom.com
@@ -47,6 +62,7 @@
 *.settings.live.net
 *.sonicbit.net
 *.storage.live.com
+@@||*.img.mobile.sina.cn^$important
 *.storage.msn.com
 *.update.microsoft.com
 *.userstorage.mega.co.nz
@@ -54,33 +70,17 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
+@@||*.twimg.com^$important
 a-*.a-msedge.net
+@@||*.cdninstagram.com^$important
 accounts.google.com.*
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
 d*.debrid.link
 dual-a-*.a-msedge.net
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
