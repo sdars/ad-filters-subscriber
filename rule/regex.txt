@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-08-27 16:23:13
+! Last Modified: 2024-08-28 00:21:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
@@ -15,6 +15,7 @@
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
+@@||*.alipay.com^
 *.*.storage.live.com
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
@@ -32,6 +33,7 @@
 *.docs.live.net
 *.fandom.com
 *.files.1drv.com
+@@||*.alipay.com^$important
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
 *.github.io
@@ -49,7 +51,9 @@
 *.officeapps.live.com
 *.onedrive.com
 *.onedrive.live.com
+@@cdn.*.qq.com
 *.phncdn.com
+@@*.myapp.com
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
@@ -62,21 +66,17 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-a-*.a-msedge.net
-accounts.google.com.*
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
 @@||*.imtt.qq.com^$important
+a-*.a-msedge.net
 @@||*.lol.qq.com^$important
 @@||*.y.qq.com^$important
-avatars*.githubusercontent.com
+accounts.google.com.*
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
+avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
 d*.debrid.link
