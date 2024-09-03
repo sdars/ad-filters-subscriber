@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-03 16:23:15
+! Last Modified: 2024-09-04 00:24:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -14,7 +14,6 @@
 *.battle.net
 *.bootstrap.libp2p.io
 *.branch.io
-@@||*.mi-img.com^$important
 *.cdn.snapcraft.io
 *.cdnrobot.xyz
 *.cloudfront.net
@@ -44,11 +43,8 @@
 *.onedrive.live.com
 *.phncdn.com
 *.policies.live.net
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
-@@||v*-dc-ad.ixigua.com^$important
 *.sonicbit.net
 *.storage.live.com
 *.storage.msn.com
@@ -58,25 +54,9 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
 a-*.a-msedge.net
-@@||*.alipay.com^
-@@||*.alipay.com^$important
 accounts.google.com.*
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
 avatars*.githubusercontent.com
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
 d*.debrid.link
@@ -85,12 +65,32 @@ galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
 img-*.xvideos-cdn.com
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
 ocsp*.globalsign.com
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
 qos*.ol.epicgames.com
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
 seed*.debrid.link
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
 st*.debrid.link
 static-*-cdn.eporner.com
 static-*.xvideos-cdn.com
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 static*.behindthevoiceactors.com
 static*.brave.com
 static*.cdn.ubi.com
