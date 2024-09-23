@@ -1,28 +1,9 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-23 16:25:16
+! Last Modified: 2024-09-24 00:23:15
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -42,6 +23,7 @@
 *.disquscdn.com
 *.dl.delivery.mp.microsoft.com
 *.docs.live.net
+@@||*.micloud.xiaomi.net^$important
 *.fandom.com
 *.files.1drv.com
 *.gallery.vsassets.io
@@ -56,9 +38,16 @@
 *.karere.mega.nz
 *.livefilestore.com
 *.mesh.com
+@@||*.video.xiaomi.com^$important
 *.mwbsys.com
 *.office.com
+@@||v*-dc-ad.ixigua.com^$important
 *.officeapps.live.com
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
 *.onedrive.com
 *.onedrive.live.com
 *.phncdn.com
@@ -75,7 +64,18 @@
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
 accounts.google.com.*
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
