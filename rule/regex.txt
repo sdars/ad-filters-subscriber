@@ -1,8 +1,28 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-09-26 00:26:13
+! Last Modified: 2024-09-26 09:25:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -13,12 +33,10 @@
 *.aria.microsoft.com
 *.battle.net
 *.bootstrap.libp2p.io
-@@||*.mi-img.com^$important
 *.branch.io
 *.cdn.snapcraft.io
 *.cdnrobot.xyz
 *.cloudfront.net
-@@||*.micloud.xiaomi.net^$important
 *.delivery.mp.microsoft.com
 *.deviantart.com
 *.disquscdn.com
@@ -39,11 +57,9 @@
 *.livefilestore.com
 *.mesh.com
 *.mwbsys.com
-@@||*.video.xiaomi.com^$important
 *.office.com
 *.officeapps.live.com
 *.onedrive.com
-@@||v*-dc-ad.ixigua.com^$important
 *.onedrive.live.com
 *.phncdn.com
 *.policies.live.net
@@ -56,29 +72,13 @@
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
-@@||*.market.xiaomi.com^$important
 *smartscreen-prod.microsoft.com
-@@||*.market.mi-img.com^$important
 *vod-adaptive.akamaized.net
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
 a-*.a-msedge.net
 accounts.google.com.*
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
 avatars*.githubusercontent.com
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 d*.debrid.link
 dual-a-*.a-msedge.net
 galleryn*.awemdia.com
