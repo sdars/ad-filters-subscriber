@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-10-12 16:22:31
+! Last Modified: 2024-10-13 00:22:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -28,11 +28,13 @@
 *.gallerycdn.vsassets.io
 *.github.io
 *.gravatar.com
+@@||*.mi-img.com^$important
 *.groups.office.live.com
 *.groups.photos.live.com
 *.groups.skydrive.live.com
 *.icedrive.io
 *.ip6.arpa
+@@||*.micloud.xiaomi.net^$important
 *.karere.mega.nz
 *.livefilestore.com
 *.mesh.com
@@ -41,8 +43,10 @@
 *.officeapps.live.com
 *.onedrive.com
 *.onedrive.live.com
+@@||*.video.xiaomi.com^$important
 *.phncdn.com
 *.policies.live.net
+@@||v*-dc-ad.ixigua.com^$important
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
 *.sonicbit.net
@@ -54,8 +58,24 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
 a-*.a-msedge.net
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
 accounts.google.com.*
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
@@ -66,35 +86,15 @@ github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
 img-*.xvideos-cdn.com
 ocsp*.globalsign.com
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
 qos*.ol.epicgames.com
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
 seed*.debrid.link
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
 st*.debrid.link
 static-*-cdn.eporner.com
 static-*.xvideos-cdn.com
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 static*.behindthevoiceactors.com
 static*.brave.com
 static*.cdn.ubi.com
 static*.ubi.com
-@@||*.gtimg.cn^$important
 statics-*.onestore.ms
-@@*.flyme.cn
 ubistatic*-a.akamaihd.net
 up*.debrid.link
