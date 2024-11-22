@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-11-22 16:26:04
+! Last Modified: 2024-11-23 00:26:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
@@ -16,13 +16,6 @@
 @@cdn.*.qq.com
 @@*.myapp.com
 @@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -44,6 +37,7 @@
 *.docs.live.net
 *.fandom.com
 *.files.1drv.com
+@@||*.lol.qq.com^$important
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
 *.github.io
@@ -57,6 +51,7 @@
 *.livefilestore.com
 *.mesh.com
 *.mwbsys.com
+@@||*.y.qq.com^$important
 *.office.com
 *.officeapps.live.com
 *.onedrive.com
@@ -76,6 +71,11 @@
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
 accounts.google.com.*
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
