@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2024-12-23 00:21:14
+! Last Modified: 2024-12-23 09:36:01
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -55,18 +55,11 @@
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
-accounts.google.com.*
-avatars*.githubusercontent.com
-cdn*-pic.xvideos-cdn.com
-cdn*-vid.xvideos-cdn.com
-d*.debrid.link
-dual-a-*.a-msedge.net
 @@||*.mi-img.com^$important
-galleryn*.awemdia.com
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
-github-production-release-asset-*.s3.amazonaws.com
+accounts.google.com.*
 @@||*.market.xiaomi.com^$important
 @@||*.market.mi-img.com^$important
 @@||f*.market.xiaomi.com^$important
@@ -78,13 +71,20 @@ github-production-release-asset-*.s3.amazonaws.com
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
 @@||*.y.qq.com^$important
-images-*.gog-statics.com
 @@||*.img.mobile.sina.cn^$important
-img-*.xvideos-cdn.com
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
+avatars*.githubusercontent.com
+cdn*-pic.xvideos-cdn.com
+cdn*-vid.xvideos-cdn.com
+d*.debrid.link
+dual-a-*.a-msedge.net
+galleryn*.awemdia.com
+github-production-release-asset-*.s3.amazonaws.com
+images-*.gog-statics.com
+img-*.xvideos-cdn.com
 ocsp*.globalsign.com
 qos*.ol.epicgames.com
 seed*.debrid.link
