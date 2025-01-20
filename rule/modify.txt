@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-01-20 09:25:47
+! Last Modified: 2025-01-20 16:25:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||file.market.xiaomi.com^$importantcdn.ark.qq.com
