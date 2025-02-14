@@ -1,38 +1,20 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-14 09:26:10
+! Last Modified: 2025-02-14 16:24:34
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
 *.*.storage.live.com
+@@||*.mi-img.com^$important
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
 *.bootstrap.libp2p.io
+@@||*.micloud.xiaomi.net^$important
 *.branch.io
 *.cdn.snapcraft.io
 *.cdnrobot.xyz
@@ -40,9 +22,11 @@
 *.delivery.mp.microsoft.com
 *.deviantart.com
 *.disquscdn.com
+@@||*.video.xiaomi.com^$important
 *.dl.delivery.mp.microsoft.com
 *.docs.live.net
 *.fandom.com
+@@||v*-dc-ad.ixigua.com^$important
 *.files.1drv.com
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
@@ -72,11 +56,27 @@
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
+@@||*.alipay.com^$important
 a-*.a-msedge.net
+@@cdn.*.qq.com
+@@*.myapp.com
 accounts.google.com.*
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
 avatars*.githubusercontent.com
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
 d*.debrid.link
