@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-28 00:26:21
+! Last Modified: 2025-02-28 09:36:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -65,28 +65,8 @@ galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
 img-*.xvideos-cdn.com
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
 ocsp*.globalsign.com
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 qos*.ol.epicgames.com
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 seed*.debrid.link
 st*.debrid.link
 static-*-cdn.eporner.com
@@ -96,5 +76,25 @@ static*.brave.com
 static*.cdn.ubi.com
 static*.ubi.com
 statics-*.onestore.ms
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
 ubistatic*-a.akamaihd.net
 up*.debrid.link
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
