@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-02-28 16:25:03
+! Last Modified: 2025-03-01 00:25:13
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
