@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-03-09 16:20:21
+! Last Modified: 2025-03-10 00:19:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -70,31 +70,31 @@ ocsp*.globalsign.com
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
+qos*.ol.epicgames.com
 @@||*.market.xiaomi.com^$important
 @@||*.market.mi-img.com^$important
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
 @@||*.alipay.com^
-qos*.ol.epicgames.com
 @@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
 seed*.debrid.link
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
-st*.debrid.link
 @@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+st*.debrid.link
 static-*-cdn.eporner.com
 static-*.xvideos-cdn.com
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
 static*.behindthevoiceactors.com
 static*.brave.com
 static*.cdn.ubi.com
 static*.ubi.com
-@@||*.img.mobile.sina.cn^$important
-statics-*.onestore.ms
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
+statics-*.onestore.ms
 @@*.flyme.cn
 ubistatic*-a.akamaihd.net
 up*.debrid.link
