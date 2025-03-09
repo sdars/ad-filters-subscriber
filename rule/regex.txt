@@ -1,28 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-03-09 09:18:44
+! Last Modified: 2025-03-09 16:20:21
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -86,15 +66,35 @@ github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
 img-*.xvideos-cdn.com
 ocsp*.globalsign.com
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
 qos*.ol.epicgames.com
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
 seed*.debrid.link
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
 st*.debrid.link
+@@||*.y.qq.com^$important
 static-*-cdn.eporner.com
 static-*.xvideos-cdn.com
 static*.behindthevoiceactors.com
 static*.brave.com
 static*.cdn.ubi.com
 static*.ubi.com
+@@||*.img.mobile.sina.cn^$important
 statics-*.onestore.ms
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 ubistatic*-a.akamaihd.net
 up*.debrid.link
