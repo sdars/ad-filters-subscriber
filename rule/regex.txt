@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-04-10 16:27:31
+! Last Modified: 2025-04-11 00:27:08
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
@@ -22,9 +22,9 @@
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
-@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
+@@*.flyme.cn
 *.*.onedrive.live.com
 *.*.pool.ntp.org
 *.*.storage.live.com
