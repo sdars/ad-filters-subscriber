@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-04-21 00:23:12
+! Last Modified: 2025-04-21 09:48:20
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
@@ -12,11 +12,21 @@
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
 @@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
-@@||*.alipay.com^$important
 *.*.storage.live.com
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
@@ -25,9 +35,7 @@
 *.bootstrap.libp2p.io
 *.branch.io
 *.cdn.snapcraft.io
-@@cdn.*.qq.com
 *.cdnrobot.xyz
-@@*.myapp.com
 *.cloudfront.net
 *.delivery.mp.microsoft.com
 *.deviantart.com
@@ -40,9 +48,7 @@
 *.gallerycdn.vsassets.io
 *.github.io
 *.gravatar.com
-@@||*.imtt.qq.com^$important
 *.groups.office.live.com
-@@||*.lol.qq.com^$important
 *.groups.photos.live.com
 *.groups.skydrive.live.com
 *.icedrive.io
@@ -50,7 +56,6 @@
 *.karere.mega.nz
 *.livefilestore.com
 *.mesh.com
-@@||*.y.qq.com^$important
 *.mwbsys.com
 *.office.com
 *.officeapps.live.com
@@ -69,13 +74,8 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-@@||*.img.mobile.sina.cn^$important
 a-*.a-msedge.net
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 accounts.google.com.*
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
