@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-04-26 16:24:43
+! Last Modified: 2025-04-27 00:24:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -55,9 +55,8 @@
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
-accounts.google.com.*
-avatars*.githubusercontent.com
 @@||*.mi-img.com^$important
+accounts.google.com.*
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
@@ -71,6 +70,13 @@ avatars*.githubusercontent.com
 @@*.myapp.com
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+avatars*.githubusercontent.com
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
 d*.debrid.link
@@ -92,9 +98,3 @@ static*.ubi.com
 statics-*.onestore.ms
 ubistatic*-a.akamaihd.net
 up*.debrid.link
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
