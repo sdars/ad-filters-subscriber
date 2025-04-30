@@ -1,17 +1,26 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-04-30 00:26:52
+! Last Modified: 2025-04-30 09:45:24
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
 *-ebgames.eb-cdn.com.au
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
 *.*.livefilestore.com
+@@||f*.market.xiaomi.com^$important
 *.*.onedrive.live.com
 *.*.pool.ntp.org
+@@||f*.market.mi-img.com^$important
 *.*.storage.live.com
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
+@@||*.alipay.com^
 *.bootstrap.libp2p.io
 *.branch.io
 *.cdn.snapcraft.io
@@ -24,6 +33,7 @@
 *.docs.live.net
 *.fandom.com
 *.files.1drv.com
+@@||*.alipay.com^$important
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
 *.github.io
@@ -31,7 +41,9 @@
 *.groups.office.live.com
 *.groups.photos.live.com
 *.groups.skydrive.live.com
+@@cdn.*.qq.com
 *.icedrive.io
+@@*.myapp.com
 *.ip6.arpa
 *.karere.mega.nz
 *.livefilestore.com
@@ -46,16 +58,24 @@
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
 *.sonicbit.net
+@@||*.imtt.qq.com^$important
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
+@@||*.lol.qq.com^$important
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
+@@||*.y.qq.com^$important
 a-*.a-msedge.net
 accounts.google.com.*
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
@@ -78,23 +98,3 @@ static*.ubi.com
 statics-*.onestore.ms
 ubistatic*-a.akamaihd.net
 up*.debrid.link
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
