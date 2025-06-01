@@ -1,42 +1,34 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-06-01 00:25:03
+! Last Modified: 2025-06-01 10:06:58
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
 *.*.storage.live.com
+@@||f*.market.xiaomi.com^$important
 *.*.storage.msn.com
+@@||f*.market.mi-img.com^$important
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
 *.bootstrap.libp2p.io
 *.branch.io
+@@||*.alipay.com^
 *.cdn.snapcraft.io
 *.cdnrobot.xyz
+@@||*.alipay.com^$important
 *.cloudfront.net
+@@cdn.*.qq.com
+@@*.myapp.com
 *.delivery.mp.microsoft.com
 *.deviantart.com
 *.disquscdn.com
@@ -52,11 +44,13 @@
 *.groups.photos.live.com
 *.groups.skydrive.live.com
 *.icedrive.io
+@@||*.imtt.qq.com^$important
 *.ip6.arpa
 *.karere.mega.nz
 *.livefilestore.com
 *.mesh.com
 *.mwbsys.com
+@@||*.lol.qq.com^$important
 *.office.com
 *.officeapps.live.com
 *.onedrive.com
@@ -75,7 +69,13 @@
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
+@@||*.y.qq.com^$important
 accounts.google.com.*
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
