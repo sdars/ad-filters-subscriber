@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-06-09 00:25:05
+! Last Modified: 2025-06-09 09:56:41
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -65,6 +65,19 @@ galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
 img-*.xvideos-cdn.com
+ocsp*.globalsign.com
+qos*.ol.epicgames.com
+seed*.debrid.link
+st*.debrid.link
+static-*-cdn.eporner.com
+static-*.xvideos-cdn.com
+static*.behindthevoiceactors.com
+static*.brave.com
+static*.cdn.ubi.com
+static*.ubi.com
+statics-*.onestore.ms
+ubistatic*-a.akamaihd.net
+up*.debrid.link
 @@||*.mi-img.com^$important
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
@@ -74,27 +87,14 @@ img-*.xvideos-cdn.com
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
 @@||*.alipay.com^
-ocsp*.globalsign.com
 @@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
-qos*.ol.epicgames.com
 @@||*.y.qq.com^$important
 @@||*.img.mobile.sina.cn^$important
-seed*.debrid.link
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
-st*.debrid.link
 @@||*.gtimg.cn^$important
-static-*-cdn.eporner.com
-static-*.xvideos-cdn.com
 @@*.flyme.cn
-static*.behindthevoiceactors.com
-static*.brave.com
-static*.cdn.ubi.com
-static*.ubi.com
-statics-*.onestore.ms
-ubistatic*-a.akamaihd.net
-up*.debrid.link
