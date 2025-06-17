@@ -1,26 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-06-17 09:52:24
+! Last Modified: 2025-06-17 16:30:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -30,7 +12,6 @@
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
-@@||*.gtimg.cn^$important
 *.bootstrap.libp2p.io
 *.branch.io
 *.cdn.snapcraft.io
@@ -43,7 +24,6 @@
 *.docs.live.net
 *.fandom.com
 *.files.1drv.com
-@@*.flyme.cn
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
 *.github.io
@@ -85,6 +65,26 @@ galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
 img-*.xvideos-cdn.com
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 ocsp*.globalsign.com
 qos*.ol.epicgames.com
 seed*.debrid.link
