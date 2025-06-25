@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-06-25 09:53:23
+! Last Modified: 2025-06-25 16:31:33
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -27,12 +27,14 @@
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
 *.github.io
+@@||*.mi-img.com^$important
 *.gravatar.com
 *.groups.office.live.com
 *.groups.photos.live.com
 *.groups.skydrive.live.com
 *.icedrive.io
 *.ip6.arpa
+@@||*.micloud.xiaomi.net^$important
 *.karere.mega.nz
 *.livefilestore.com
 *.mesh.com
@@ -44,8 +46,10 @@
 *.phncdn.com
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
+@@||*.video.xiaomi.com^$important
 *.settings.live.net
 *.sonicbit.net
+@@||v*-dc-ad.ixigua.com^$important
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
@@ -53,25 +57,14 @@
 *.wns.windows.com
 *.ytimg.com
 *smartscreen-prod.microsoft.com
-*vod-adaptive.akamaized.net
-a-*.a-msedge.net
-accounts.google.com.*
-avatars*.githubusercontent.com
-cdn*-pic.xvideos-cdn.com
-cdn*-vid.xvideos-cdn.com
-d*.debrid.link
-dual-a-*.a-msedge.net
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-galleryn*.awemdia.com
 @@||*.market.xiaomi.com^$important
+*vod-adaptive.akamaized.net
 @@||*.market.mi-img.com^$important
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
 @@||*.alipay.com^
-github-production-release-asset-*.s3.amazonaws.com
+a-*.a-msedge.net
+accounts.google.com.*
 @@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
@@ -81,8 +74,15 @@ github-production-release-asset-*.s3.amazonaws.com
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
+avatars*.githubusercontent.com
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
+cdn*-pic.xvideos-cdn.com
+cdn*-vid.xvideos-cdn.com
+d*.debrid.link
+dual-a-*.a-msedge.net
+galleryn*.awemdia.com
+github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
 img-*.xvideos-cdn.com
 ocsp*.globalsign.com
