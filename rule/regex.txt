@@ -1,12 +1,23 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-07-17 09:59:05
+! Last Modified: 2025-07-17 16:31:45
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
-@@||*.mi-img.com^$important
 *.*.pool.ntp.org
 *.*.storage.live.com
 *.*.storage.msn.com
@@ -16,7 +27,6 @@
 *.bootstrap.libp2p.io
 *.branch.io
 *.cdn.snapcraft.io
-@@||*.micloud.xiaomi.net^$important
 *.cdnrobot.xyz
 *.cloudfront.net
 *.delivery.mp.microsoft.com
@@ -27,11 +37,9 @@
 *.fandom.com
 *.files.1drv.com
 *.gallery.vsassets.io
-@@||*.video.xiaomi.com^$important
 *.gallerycdn.vsassets.io
 *.github.io
 *.gravatar.com
-@@||v*-dc-ad.ixigua.com^$important
 *.groups.office.live.com
 *.groups.photos.live.com
 *.groups.skydrive.live.com
@@ -46,11 +54,8 @@
 *.onedrive.com
 *.onedrive.live.com
 *.phncdn.com
-@@||*.market.xiaomi.com^$important
 *.policies.live.net
-@@||*.market.mi-img.com^$important
 *.prod.do.dsp.mp.microsoft.com
-@@||f*.market.xiaomi.com^$important
 *.settings.live.net
 *.sonicbit.net
 *.storage.live.com
@@ -61,21 +66,16 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-a-*.a-msedge.net
-accounts.google.com.*
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
 @@||*.y.qq.com^$important
+a-*.a-msedge.net
+accounts.google.com.*
 @@||*.img.mobile.sina.cn^$important
-avatars*.githubusercontent.com
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
+avatars*.githubusercontent.com
 @@*.flyme.cn
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
