@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-08-13 09:53:45
+! Last Modified: 2025-08-13 16:31:19
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
@@ -11,11 +11,22 @@
 @@||*.market.mi-img.com^$important
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
-@@||*.alipay.com^
 *.*.storage.live.com
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
@@ -37,7 +48,6 @@
 *.gallerycdn.vsassets.io
 *.github.io
 *.gravatar.com
-@@||*.alipay.com^$important
 *.groups.office.live.com
 *.groups.photos.live.com
 *.groups.skydrive.live.com
@@ -59,24 +69,14 @@
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
-@@cdn.*.qq.com
 *.userstorage.mega.co.nz
-@@*.myapp.com
 *.wns.windows.com
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
 accounts.google.com.*
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 avatars*.githubusercontent.com
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
 d*.debrid.link
