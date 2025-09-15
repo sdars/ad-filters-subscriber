@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-09-15 00:21:27
+! Last Modified: 2025-09-15 09:46:34
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -36,18 +36,25 @@
 *.karere.mega.nz
 *.livefilestore.com
 *.mesh.com
+@@||*.mi-img.com^$important
 *.mwbsys.com
 *.office.com
 *.officeapps.live.com
 *.onedrive.com
-*.onedrive.live.com
-*.phncdn.com
-*.policies.live.net
-@@||*.mi-img.com^$important
 @@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+*.onedrive.live.com
+@@||f*.market.xiaomi.com^$important
+*.phncdn.com
+@@||f*.market.mi-img.com^$important
+*.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
 *.sonicbit.net
+@@||*.alipay.com^
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
@@ -56,16 +63,9 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
+@@||*.alipay.com^$important
 a-*.a-msedge.net
 accounts.google.com.*
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
 @@||*.imtt.qq.com^$important
