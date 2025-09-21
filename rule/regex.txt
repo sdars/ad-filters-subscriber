@@ -1,20 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-09-21 09:47:44
+! Last Modified: 2025-09-21 16:23:20
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -27,12 +15,10 @@
 *.bootstrap.libp2p.io
 *.branch.io
 *.cdn.snapcraft.io
-@@||*.imtt.qq.com^$important
 *.cdnrobot.xyz
 *.cloudfront.net
 *.delivery.mp.microsoft.com
 *.deviantart.com
-@@||*.lol.qq.com^$important
 *.disquscdn.com
 *.dl.delivery.mp.microsoft.com
 *.docs.live.net
@@ -46,7 +32,6 @@
 *.groups.photos.live.com
 *.groups.skydrive.live.com
 *.icedrive.io
-@@||*.y.qq.com^$important
 *.ip6.arpa
 *.karere.mega.nz
 *.livefilestore.com
@@ -58,25 +43,40 @@
 *.onedrive.live.com
 *.phncdn.com
 *.policies.live.net
-@@||*.img.mobile.sina.cn^$important
 *.prod.do.dsp.mp.microsoft.com
-@@||*.twimg.com^$important
 *.settings.live.net
 *.sonicbit.net
 *.storage.live.com
 *.storage.msn.com
-@@||*.cdninstagram.com^$important
 *.update.microsoft.com
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
 *smartscreen-prod.microsoft.com
+@@||*.mi-img.com^$important
 *vod-adaptive.akamaized.net
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
 a-*.a-msedge.net
-@@||*.gtimg.cn^$important
+@@||v*-dc-ad.ixigua.com^$important
 accounts.google.com.*
-@@*.flyme.cn
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
 avatars*.githubusercontent.com
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
 d*.debrid.link
