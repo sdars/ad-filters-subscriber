@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: all.txt
-! Last Modified: 2025-09-28 00:22:52
+! Last Modified: 2025-09-28 09:48:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||tencent.com^
