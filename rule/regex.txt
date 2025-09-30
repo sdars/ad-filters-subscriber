@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-09-30 09:38:20
+! Last Modified: 2025-09-30 16:30:05
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -63,21 +63,6 @@ d*.debrid.link
 dual-a-*.a-msedge.net
 galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
-images-*.gog-statics.com
-img-*.xvideos-cdn.com
-ocsp*.globalsign.com
-qos*.ol.epicgames.com
-seed*.debrid.link
-st*.debrid.link
-static-*-cdn.eporner.com
-static-*.xvideos-cdn.com
-static*.behindthevoiceactors.com
-static*.brave.com
-static*.cdn.ubi.com
-static*.ubi.com
-statics-*.onestore.ms
-ubistatic*-a.akamaihd.net
-up*.debrid.link
 @@||*.mi-img.com^$important
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
@@ -98,3 +83,18 @@ up*.debrid.link
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
+images-*.gog-statics.com
+img-*.xvideos-cdn.com
+ocsp*.globalsign.com
+qos*.ol.epicgames.com
+seed*.debrid.link
+st*.debrid.link
+static-*-cdn.eporner.com
+static-*.xvideos-cdn.com
+static*.behindthevoiceactors.com
+static*.brave.com
+static*.cdn.ubi.com
+static*.ubi.com
+statics-*.onestore.ms
+ubistatic*-a.akamaihd.net
+up*.debrid.link
