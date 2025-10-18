@@ -1,9 +1,24 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-10-18 09:36:58
+! Last Modified: 2025-10-18 16:25:53
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
 *-ebgames.eb-cdn.com.au
+@@||*.y.qq.com^$important
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
@@ -34,6 +49,7 @@
 *.icedrive.io
 *.ip6.arpa
 *.karere.mega.nz
+@@||*.img.mobile.sina.cn^$important
 *.livefilestore.com
 *.mesh.com
 *.mwbsys.com
@@ -52,33 +68,17 @@
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
+@@||*.twimg.com^$important
 *smartscreen-prod.microsoft.com
+@@||*.cdninstagram.com^$important
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
+@@||*.gtimg.cn^$important
 accounts.google.com.*
+@@*.flyme.cn
 avatars*.githubusercontent.com
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 d*.debrid.link
 dual-a-*.a-msedge.net
 galleryn*.awemdia.com
