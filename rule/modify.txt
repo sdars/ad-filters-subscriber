@@ -1,15 +1,15 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-10-22 16:31:33
+! Last Modified: 2025-10-23 00:29:34
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 _dnsaddr.bootstrap.libp2p.io
 _dnsaddr.ipfs.lubar.me
 .l.google.com
 .soundcloud.com
-*._dns-sd._udp.*.in-addr.arpa
-@@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
 @@||file.market.xiaomi.com^$importantcdn.ark.qq.com
+*._dns-sd._udp.*.in-addr.arpa
 @@||connect.rom.miui.com/generate_204^$important
 @@||reddit
 token.cp.microsoft.com/
