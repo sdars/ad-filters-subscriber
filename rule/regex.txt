@@ -1,17 +1,33 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-10-29 09:49:56
+! Last Modified: 2025-10-29 16:30:55
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
+@@||*.y.qq.com^$important
 *.*.pool.ntp.org
 *.*.storage.live.com
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
+@@||*.img.mobile.sina.cn^$important
 *.bootstrap.libp2p.io
 *.branch.io
 *.cdn.snapcraft.io
@@ -33,9 +49,11 @@
 *.groups.skydrive.live.com
 *.icedrive.io
 *.ip6.arpa
+@@||*.twimg.com^$important
 *.karere.mega.nz
 *.livefilestore.com
 *.mesh.com
+@@||*.cdninstagram.com^$important
 *.mwbsys.com
 *.office.com
 *.officeapps.live.com
@@ -55,6 +73,8 @@
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 accounts.google.com.*
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
@@ -78,23 +98,3 @@ static*.ubi.com
 statics-*.onestore.ms
 ubistatic*-a.akamaihd.net
 up*.debrid.link
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
