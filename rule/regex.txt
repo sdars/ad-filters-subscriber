@@ -1,15 +1,19 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-11-03 16:31:19
+! Last Modified: 2025-11-04 00:26:19
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
 *.*.storage.live.com
+@@||*.video.xiaomi.com^$important
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
+@@||v*-dc-ad.ixigua.com^$important
 *.aria.microsoft.com
 *.battle.net
 *.bootstrap.libp2p.io
@@ -22,19 +26,27 @@
 *.disquscdn.com
 *.dl.delivery.mp.microsoft.com
 *.docs.live.net
+@@||*.market.xiaomi.com^$important
 *.fandom.com
+@@||*.market.mi-img.com^$important
 *.files.1drv.com
+@@||f*.market.xiaomi.com^$important
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
+@@||f*.market.mi-img.com^$important
 *.github.io
 *.gravatar.com
 *.groups.office.live.com
+@@||*.alipay.com^
+@@||*.alipay.com^$important
 *.groups.photos.live.com
 *.groups.skydrive.live.com
 *.icedrive.io
 *.ip6.arpa
 *.karere.mega.nz
+@@cdn.*.qq.com
 *.livefilestore.com
+@@*.myapp.com
 *.mesh.com
 *.mwbsys.com
 *.office.com
@@ -48,35 +60,23 @@
 *.sonicbit.net
 *.storage.live.com
 *.storage.msn.com
+@@||*.imtt.qq.com^$important
 *.update.microsoft.com
 *.userstorage.mega.co.nz
 *.wns.windows.com
+@@||*.lol.qq.com^$important
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
-accounts.google.com.*
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
 @@||*.y.qq.com^$important
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
-avatars*.githubusercontent.com
+accounts.google.com.*
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
+avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
 d*.debrid.link
