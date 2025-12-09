@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: modify.txt
-! Last Modified: 2025-12-09 16:34:01
+! Last Modified: 2025-12-10 00:30:49
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||zhihu-web-analytics.zhihu.com/api/v2/za/payload-verification
