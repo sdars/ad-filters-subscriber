@@ -1,28 +1,12 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-12-25 09:56:07
+! Last Modified: 2025-12-25 16:32:39
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -32,15 +16,20 @@
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
+@@||*.market.xiaomi.com^$important
 *.bootstrap.libp2p.io
+@@||*.market.mi-img.com^$important
 *.branch.io
 *.cdn.snapcraft.io
+@@||f*.market.xiaomi.com^$important
 *.cdnrobot.xyz
+@@||f*.market.mi-img.com^$important
 *.cloudfront.net
 *.delivery.mp.microsoft.com
 *.deviantart.com
 *.disquscdn.com
 *.dl.delivery.mp.microsoft.com
+@@||*.alipay.com^
 *.docs.live.net
 *.fandom.com
 *.files.1drv.com
@@ -58,6 +47,7 @@
 *.mesh.com
 *.mwbsys.com
 *.office.com
+@@||*.alipay.com^$important
 *.officeapps.live.com
 *.onedrive.com
 *.onedrive.live.com
@@ -74,8 +64,18 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
+@@cdn.*.qq.com
+@@*.myapp.com
 a-*.a-msedge.net
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
 accounts.google.com.*
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
