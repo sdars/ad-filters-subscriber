@@ -1,12 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-12-25 16:32:39
+! Last Modified: 2025-12-26 00:29:44
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -16,20 +12,15 @@
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
-@@||*.market.xiaomi.com^$important
 *.bootstrap.libp2p.io
-@@||*.market.mi-img.com^$important
 *.branch.io
 *.cdn.snapcraft.io
-@@||f*.market.xiaomi.com^$important
 *.cdnrobot.xyz
-@@||f*.market.mi-img.com^$important
 *.cloudfront.net
 *.delivery.mp.microsoft.com
 *.deviantart.com
 *.disquscdn.com
 *.dl.delivery.mp.microsoft.com
-@@||*.alipay.com^
 *.docs.live.net
 *.fandom.com
 *.files.1drv.com
@@ -39,6 +30,10 @@
 *.gravatar.com
 *.groups.office.live.com
 *.groups.photos.live.com
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
 *.groups.skydrive.live.com
 *.icedrive.io
 *.ip6.arpa
@@ -47,7 +42,6 @@
 *.mesh.com
 *.mwbsys.com
 *.office.com
-@@||*.alipay.com^$important
 *.officeapps.live.com
 *.onedrive.com
 *.onedrive.live.com
@@ -55,21 +49,27 @@
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
+@@||*.market.xiaomi.com^$important
 *.sonicbit.net
+@@||*.market.mi-img.com^$important
 *.storage.live.com
 *.storage.msn.com
+@@||f*.market.xiaomi.com^$important
 *.update.microsoft.com
+@@||f*.market.mi-img.com^$important
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
 *smartscreen-prod.microsoft.com
+@@||*.alipay.com^
 *vod-adaptive.akamaized.net
+a-*.a-msedge.net
+@@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
-a-*.a-msedge.net
+accounts.google.com.*
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
-accounts.google.com.*
 @@||*.y.qq.com^$important
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
