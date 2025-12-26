@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2025-12-26 09:55:23
+! Last Modified: 2025-12-26 16:32:12
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -36,18 +36,18 @@
 *.karere.mega.nz
 *.livefilestore.com
 *.mesh.com
+@@||*.mi-img.com^$important
 *.mwbsys.com
+@@||*.micloud.xiaomi.net^$important
 *.office.com
 *.officeapps.live.com
 *.onedrive.com
 *.onedrive.live.com
 *.phncdn.com
 *.policies.live.net
-@@||*.mi-img.com^$important
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
 *.sonicbit.net
-@@||*.micloud.xiaomi.net^$important
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
@@ -70,9 +70,9 @@ accounts.google.com.*
 @@*.myapp.com
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
+avatars*.githubusercontent.com
 @@||*.y.qq.com^$important
 @@||*.img.mobile.sina.cn^$important
-avatars*.githubusercontent.com
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
