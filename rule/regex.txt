@@ -1,18 +1,24 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-02-05 16:49:22
+! Last Modified: 2026-02-06 00:54:18
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
 *-ebgames.eb-cdn.com.au
+@@||*.video.xiaomi.com^$important
 *.*.livefilestore.com
 *.*.onedrive.live.com
+@@||v*-dc-ad.ixigua.com^$important
 *.*.pool.ntp.org
 *.*.storage.live.com
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
+@@||*.market.xiaomi.com^$important
 *.bootstrap.libp2p.io
+@@||*.market.mi-img.com^$important
 *.branch.io
 *.cdn.snapcraft.io
 *.cdnrobot.xyz
@@ -55,30 +61,24 @@
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
-accounts.google.com.*
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
+accounts.google.com.*
 @@||*.alipay.com^
 @@||*.alipay.com^$important
-avatars*.githubusercontent.com
 @@cdn.*.qq.com
 @@*.myapp.com
+avatars*.githubusercontent.com
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
 @@||*.y.qq.com^$important
 @@||*.img.mobile.sina.cn^$important
+cdn*-pic.xvideos-cdn.com
+cdn*-vid.xvideos-cdn.com
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
-cdn*-pic.xvideos-cdn.com
-cdn*-vid.xvideos-cdn.com
 d*.debrid.link
 dual-a-*.a-msedge.net
 galleryn*.awemdia.com
