@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-02-09 10:34:26
+! Last Modified: 2026-02-09 16:58:04
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -24,13 +24,15 @@
 *.docs.live.net
 *.fandom.com
 *.files.1drv.com
-@@||*.mi-img.com^$important
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
 *.github.io
 *.gravatar.com
 *.groups.office.live.com
-@@||*.micloud.xiaomi.net^$important
 *.groups.photos.live.com
 *.groups.skydrive.live.com
 *.icedrive.io
@@ -40,26 +42,13 @@
 *.mesh.com
 *.mwbsys.com
 *.office.com
-@@||*.video.xiaomi.com^$important
 *.officeapps.live.com
 *.onedrive.com
 *.onedrive.live.com
-@@||v*-dc-ad.ixigua.com^$important
 *.phncdn.com
 *.policies.live.net
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
 *.sonicbit.net
 *.storage.live.com
 *.storage.msn.com
@@ -67,13 +56,24 @@
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
+@@||*.market.xiaomi.com^$important
 *smartscreen-prod.microsoft.com
+@@||*.market.mi-img.com^$important
 *vod-adaptive.akamaized.net
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
 a-*.a-msedge.net
-accounts.google.com.*
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
+accounts.google.com.*
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
 avatars*.githubusercontent.com
