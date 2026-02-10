@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-02-09 16:58:04
+! Last Modified: 2026-02-10 10:42:36
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -26,10 +26,6 @@
 *.files.1drv.com
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
 *.github.io
 *.gravatar.com
 *.groups.office.live.com
@@ -56,14 +52,19 @@
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
-@@||*.market.xiaomi.com^$important
 *smartscreen-prod.microsoft.com
-@@||*.market.mi-img.com^$important
 *vod-adaptive.akamaized.net
+a-*.a-msedge.net
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+accounts.google.com.*
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
 @@||*.alipay.com^
-a-*.a-msedge.net
 @@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
@@ -73,7 +74,6 @@ a-*.a-msedge.net
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
-accounts.google.com.*
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
 avatars*.githubusercontent.com
