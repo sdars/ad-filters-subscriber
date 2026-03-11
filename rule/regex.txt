@@ -1,28 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-03-11 16:48:52
+! Last Modified: 2026-03-12 00:56:22
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -43,10 +23,12 @@
 *.dl.delivery.mp.microsoft.com
 *.docs.live.net
 *.fandom.com
+@@||*.mi-img.com^$important
 *.files.1drv.com
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
 *.github.io
+@@||*.micloud.xiaomi.net^$important
 *.gravatar.com
 *.groups.office.live.com
 *.groups.photos.live.com
@@ -54,8 +36,10 @@
 *.icedrive.io
 *.ip6.arpa
 *.karere.mega.nz
+@@||*.video.xiaomi.com^$important
 *.livefilestore.com
 *.mesh.com
+@@||v*-dc-ad.ixigua.com^$important
 *.mwbsys.com
 *.office.com
 *.officeapps.live.com
@@ -72,13 +56,29 @@
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
+@@||*.market.xiaomi.com^$important
 *smartscreen-prod.microsoft.com
+@@||*.market.mi-img.com^$important
 *vod-adaptive.akamaized.net
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
 a-*.a-msedge.net
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
 accounts.google.com.*
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
 avatars*.githubusercontent.com
+@@||*.cdninstagram.com^$important
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 d*.debrid.link
 dual-a-*.a-msedge.net
 galleryn*.awemdia.com
