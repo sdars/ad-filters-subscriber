@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-04-06 10:49:53
+! Last Modified: 2026-04-06 17:12:25
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -54,17 +54,20 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
+a-*.a-msedge.net
+accounts.google.com.*
 @@||*.mi-img.com^$important
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
+avatars*.githubusercontent.com
 @@||*.market.xiaomi.com^$important
 @@||*.market.mi-img.com^$important
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
-a-*.a-msedge.net
+cdn*-pic.xvideos-cdn.com
+cdn*-vid.xvideos-cdn.com
 @@||*.alipay.com^
-accounts.google.com.*
 @@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
@@ -74,12 +77,9 @@ accounts.google.com.*
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
+d*.debrid.link
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
-avatars*.githubusercontent.com
-cdn*-pic.xvideos-cdn.com
-cdn*-vid.xvideos-cdn.com
-d*.debrid.link
 dual-a-*.a-msedge.net
 galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
