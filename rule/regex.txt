@@ -1,9 +1,13 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-04-11 16:50:41
+! Last Modified: 2026-04-12 00:41:10
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
 *-ebgames.eb-cdn.com.au
+@@||v*-dc-ad.ixigua.com^$important
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
@@ -12,6 +16,12 @@
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
 *.bootstrap.libp2p.io
 *.branch.io
 *.cdn.snapcraft.io
@@ -26,6 +36,7 @@
 *.files.1drv.com
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
+@@cdn.*.qq.com
 *.github.io
 *.gravatar.com
 *.groups.office.live.com
@@ -56,31 +67,20 @@
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
 accounts.google.com.*
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-avatars*.githubusercontent.com
-cdn*-pic.xvideos-cdn.com
-cdn*-vid.xvideos-cdn.com
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-d*.debrid.link
-@@cdn.*.qq.com
 @@*.myapp.com
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
 @@||*.y.qq.com^$important
-dual-a-*.a-msedge.net
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
 @@*.flyme.cn
+avatars*.githubusercontent.com
+cdn*-pic.xvideos-cdn.com
+cdn*-vid.xvideos-cdn.com
+d*.debrid.link
+dual-a-*.a-msedge.net
 galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
