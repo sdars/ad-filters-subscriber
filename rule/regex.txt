@@ -1,10 +1,25 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-04-14 10:51:55
+! Last Modified: 2026-04-14 17:22:28
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
+@@||*.y.qq.com^$important
 *.*.onedrive.live.com
 *.*.pool.ntp.org
 *.*.storage.live.com
@@ -18,25 +33,13 @@
 *.cdnrobot.xyz
 *.cloudfront.net
 *.delivery.mp.microsoft.com
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
 *.deviantart.com
 *.disquscdn.com
 *.dl.delivery.mp.microsoft.com
-@@||*.video.xiaomi.com^$important
 *.docs.live.net
 *.fandom.com
-@@||v*-dc-ad.ixigua.com^$important
 *.files.1drv.com
 *.gallery.vsassets.io
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
 *.gallerycdn.vsassets.io
 *.github.io
 *.gravatar.com
@@ -44,18 +47,17 @@
 *.groups.photos.live.com
 *.groups.skydrive.live.com
 *.icedrive.io
+@@||*.img.mobile.sina.cn^$important
 *.ip6.arpa
 *.karere.mega.nz
 *.livefilestore.com
 *.mesh.com
 *.mwbsys.com
 *.office.com
-@@||*.imtt.qq.com^$important
 *.officeapps.live.com
 *.onedrive.com
 *.onedrive.live.com
 *.phncdn.com
-@@||*.lol.qq.com^$important
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
@@ -68,13 +70,11 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-@@||*.y.qq.com^$important
-a-*.a-msedge.net
-accounts.google.com.*
-@@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
+a-*.a-msedge.net
 @@||*.gtimg.cn^$important
+accounts.google.com.*
 @@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
