@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-04-30 18:08:57
+! Last Modified: 2026-05-01 01:23:51
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
@@ -12,17 +12,6 @@
 @@||f*.market.xiaomi.com^$important
 @@||f*.market.mi-img.com^$important
 @@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -33,6 +22,7 @@
 *.aria.microsoft.com
 *.battle.net
 *.bootstrap.libp2p.io
+@@||*.alipay.com^$important
 *.branch.io
 *.cdn.snapcraft.io
 *.cdnrobot.xyz
@@ -48,6 +38,8 @@
 *.gallerycdn.vsassets.io
 *.github.io
 *.gravatar.com
+@@cdn.*.qq.com
+@@*.myapp.com
 *.groups.office.live.com
 *.groups.photos.live.com
 *.groups.skydrive.live.com
@@ -70,12 +62,20 @@
 *.storage.msn.com
 *.update.microsoft.com
 *.userstorage.mega.co.nz
+@@||*.imtt.qq.com^$important
 *.wns.windows.com
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
+@@||*.img.mobile.sina.cn^$important
 accounts.google.com.*
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
