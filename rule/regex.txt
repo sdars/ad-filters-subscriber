@@ -1,25 +1,11 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-05-03 17:23:27
+! Last Modified: 2026-05-04 00:55:17
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
 *-ebgames.eb-cdn.com.au
-@@||*.imtt.qq.com^$important
 *.*.livefilestore.com
 *.*.onedrive.live.com
-@@||*.lol.qq.com^$important
 *.*.pool.ntp.org
 *.*.storage.live.com
 *.*.storage.msn.com
@@ -31,7 +17,6 @@
 *.cdn.snapcraft.io
 *.cdnrobot.xyz
 *.cloudfront.net
-@@||*.y.qq.com^$important
 *.delivery.mp.microsoft.com
 *.deviantart.com
 *.disquscdn.com
@@ -61,7 +46,6 @@
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
 *.sonicbit.net
-@@||*.img.mobile.sina.cn^$important
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
@@ -71,18 +55,34 @@
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 accounts.google.com.*
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
 d*.debrid.link
 dual-a-*.a-msedge.net
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
 galleryn*.awemdia.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
 github-production-release-asset-*.s3.amazonaws.com
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 images-*.gog-statics.com
 img-*.xvideos-cdn.com
 ocsp*.globalsign.com
