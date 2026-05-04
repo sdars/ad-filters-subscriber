@@ -1,37 +1,45 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-05-04 11:33:16
+! Last Modified: 2026-05-04 18:16:32
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
 *.*.pool.ntp.org
-@@||*.market.xiaomi.com^$important
 *.*.storage.live.com
-@@||*.market.mi-img.com^$important
 *.*.storage.msn.com
-@@||f*.market.xiaomi.com^$important
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
-@@||f*.market.mi-img.com^$important
 *.battle.net
 *.bootstrap.libp2p.io
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
 *.branch.io
 *.cdn.snapcraft.io
 *.cdnrobot.xyz
-@@||*.alipay.com^
 *.cloudfront.net
 *.delivery.mp.microsoft.com
 *.deviantart.com
 *.disquscdn.com
 *.dl.delivery.mp.microsoft.com
 *.docs.live.net
-@@||*.alipay.com^$important
 *.fandom.com
 *.files.1drv.com
 *.gallery.vsassets.io
@@ -44,10 +52,9 @@
 *.icedrive.io
 *.ip6.arpa
 *.karere.mega.nz
-@@cdn.*.qq.com
 *.livefilestore.com
-@@*.myapp.com
 *.mesh.com
+@@||*.gtimg.cn^$important
 *.mwbsys.com
 *.office.com
 *.officeapps.live.com
@@ -57,6 +64,7 @@
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
+@@*.flyme.cn
 *.sonicbit.net
 *.storage.live.com
 *.storage.msn.com
@@ -66,15 +74,7 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
 a-*.a-msedge.net
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 accounts.google.com.*
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
