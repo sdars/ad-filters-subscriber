@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-05-09 01:22:04
+! Last Modified: 2026-05-09 11:25:40
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -12,11 +12,13 @@
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
 *.battle.net
+@@||*.mi-img.com^$important
 *.bootstrap.libp2p.io
 *.branch.io
 *.cdn.snapcraft.io
 *.cdnrobot.xyz
 *.cloudfront.net
+@@||*.micloud.xiaomi.net^$important
 *.delivery.mp.microsoft.com
 *.deviantart.com
 *.disquscdn.com
@@ -28,16 +30,28 @@
 *.gallerycdn.vsassets.io
 *.github.io
 *.gravatar.com
+@@||*.video.xiaomi.com^$important
 *.groups.office.live.com
+@@||v*-dc-ad.ixigua.com^$important
 *.groups.photos.live.com
 *.groups.skydrive.live.com
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
 *.icedrive.io
 *.ip6.arpa
 *.karere.mega.nz
+@@||*.imtt.qq.com^$important
 *.livefilestore.com
 *.mesh.com
 *.mwbsys.com
 *.office.com
+@@||*.lol.qq.com^$important
 *.officeapps.live.com
 *.onedrive.com
 *.onedrive.live.com
@@ -49,12 +63,18 @@
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
+@@||*.y.qq.com^$important
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 accounts.google.com.*
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
@@ -65,27 +85,7 @@ galleryn*.awemdia.com
 github-production-release-asset-*.s3.amazonaws.com
 images-*.gog-statics.com
 img-*.xvideos-cdn.com
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
 ocsp*.globalsign.com
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 qos*.ol.epicgames.com
 seed*.debrid.link
 st*.debrid.link
