@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-05-17 17:48:52
+! Last Modified: 2026-05-18 01:00:00
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -34,16 +34,13 @@
 *.icedrive.io
 *.ip6.arpa
 *.karere.mega.nz
-@@||*.mi-img.com^$important
 *.livefilestore.com
 *.mesh.com
 *.mwbsys.com
 *.office.com
-@@||*.micloud.xiaomi.net^$important
 *.officeapps.live.com
 *.onedrive.com
 *.onedrive.live.com
-@@||*.video.xiaomi.com^$important
 *.phncdn.com
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
@@ -57,7 +54,10 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
+@@||*.mi-img.com^$important
 a-*.a-msedge.net
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
 accounts.google.com.*
 @@||*.market.xiaomi.com^$important
@@ -71,8 +71,8 @@ accounts.google.com.*
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
 @@||*.y.qq.com^$important
-avatars*.githubusercontent.com
 @@||*.img.mobile.sina.cn^$important
+avatars*.githubusercontent.com
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
