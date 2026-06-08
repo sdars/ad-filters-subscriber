@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-06-08 01:21:40
+! Last Modified: 2026-06-08 12:19:26
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -24,24 +24,19 @@
 *.docs.live.net
 *.fandom.com
 *.files.1drv.com
+*.gallery.vsassets.io
+*.gallerycdn.vsassets.io
 @@||*.mi-img.com^$important
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
-*.gallery.vsassets.io
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-*.gallerycdn.vsassets.io
-@@||f*.market.xiaomi.com^$important
 *.github.io
-@@||f*.market.mi-img.com^$important
 *.gravatar.com
 *.groups.office.live.com
 *.groups.photos.live.com
 *.groups.skydrive.live.com
 *.icedrive.io
 *.ip6.arpa
-@@||*.alipay.com^
 *.karere.mega.nz
 *.livefilestore.com
 *.mesh.com
@@ -58,6 +53,11 @@
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
@@ -67,10 +67,10 @@ a-*.a-msedge.net
 @@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
-accounts.google.com.*
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
 @@||*.y.qq.com^$important
+accounts.google.com.*
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
