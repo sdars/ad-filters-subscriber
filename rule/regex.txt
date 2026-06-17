@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-06-17 20:18:35
+! Last Modified: 2026-06-18 02:28:14
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 @@||*.mi-img.com^$important
@@ -15,6 +15,14 @@
 @@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -23,12 +31,10 @@
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
 *.aria.microsoft.com
-@@||*.imtt.qq.com^$important
 *.battle.net
 *.bootstrap.libp2p.io
 *.branch.io
 *.cdn.snapcraft.io
-@@||*.lol.qq.com^$important
 *.cdnrobot.xyz
 *.cloudfront.net
 *.delivery.mp.microsoft.com
@@ -40,7 +46,6 @@
 *.files.1drv.com
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
-@@||*.y.qq.com^$important
 *.github.io
 *.gravatar.com
 *.groups.office.live.com
@@ -69,13 +74,8 @@
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-@@||*.img.mobile.sina.cn^$important
 a-*.a-msedge.net
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 accounts.google.com.*
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
