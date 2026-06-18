@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-06-18 12:17:36
+! Last Modified: 2026-06-18 19:51:59
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -68,11 +68,11 @@ accounts.google.com.*
 @@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
-avatars*.githubusercontent.com
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
 @@||*.y.qq.com^$important
 @@||*.img.mobile.sina.cn^$important
+avatars*.githubusercontent.com
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
