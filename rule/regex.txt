@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-06-24 01:59:48
+! Last Modified: 2026-06-24 11:53:11
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -38,10 +38,12 @@
 *.mesh.com
 *.mwbsys.com
 *.office.com
+@@||*.mi-img.com^$important
 *.officeapps.live.com
 *.onedrive.com
 *.onedrive.live.com
 *.phncdn.com
+@@||*.micloud.xiaomi.net^$important
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
@@ -51,11 +53,29 @@
 *.update.microsoft.com
 *.userstorage.mega.co.nz
 *.wns.windows.com
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
 accounts.google.com.*
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
@@ -67,34 +87,14 @@ images-*.gog-statics.com
 img-*.xvideos-cdn.com
 ocsp*.globalsign.com
 qos*.ol.epicgames.com
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
 seed*.debrid.link
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
 st*.debrid.link
 static-*-cdn.eporner.com
 static-*.xvideos-cdn.com
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
 static*.behindthevoiceactors.com
 static*.brave.com
 static*.cdn.ubi.com
-@@||*.gtimg.cn^$important
 static*.ubi.com
 statics-*.onestore.ms
-@@*.flyme.cn
 ubistatic*-a.akamaihd.net
 up*.debrid.link
