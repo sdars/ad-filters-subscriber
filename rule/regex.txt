@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-07-20 11:27:31
+! Last Modified: 2026-07-20 18:54:38
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -27,13 +27,13 @@
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
 *.github.io
-*.gravatar.com
-*.groups.office.live.com
 @@||*.mi-img.com^$important
+*.gravatar.com
 @@||*.micloud.xiaomi.net^$important
+*.groups.office.live.com
+*.groups.photos.live.com
 @@||*.video.xiaomi.com^$important
 @@||v*-dc-ad.ixigua.com^$important
-*.groups.photos.live.com
 *.groups.skydrive.live.com
 *.icedrive.io
 *.ip6.arpa
@@ -42,25 +42,25 @@
 *.mesh.com
 *.mwbsys.com
 *.office.com
-@@||*.market.xiaomi.com^$important
 *.officeapps.live.com
-@@||*.market.mi-img.com^$important
 *.onedrive.com
 *.onedrive.live.com
-@@||f*.market.xiaomi.com^$important
 *.phncdn.com
-@@||f*.market.mi-img.com^$important
 *.policies.live.net
+@@||*.market.xiaomi.com^$important
 *.prod.do.dsp.mp.microsoft.com
+@@||*.market.mi-img.com^$important
 *.settings.live.net
+@@||f*.market.xiaomi.com^$important
 *.sonicbit.net
+@@||f*.market.mi-img.com^$important
 *.storage.live.com
 *.storage.msn.com
 *.update.microsoft.com
-@@||*.alipay.com^
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
+@@||*.alipay.com^
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 @@||*.alipay.com^$important
