@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-08-19 00:34:03
+! Last Modified: 2026-08-19 09:22:44
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -76,6 +76,8 @@ static*.brave.com
 static*.cdn.ubi.com
 static*.ubi.com
 statics-*.onestore.ms
+ubistatic*-a.akamaihd.net
+up*.debrid.link
 @@||*.mi-img.com^$important
 @@||*.micloud.xiaomi.net^$important
 @@||*.video.xiaomi.com^$important
@@ -86,8 +88,6 @@ statics-*.onestore.ms
 @@||f*.market.mi-img.com^$important
 @@||*.alipay.com^
 @@||*.alipay.com^$important
-ubistatic*-a.akamaihd.net
-up*.debrid.link
 @@cdn.*.qq.com
 @@*.myapp.com
 @@||*.imtt.qq.com^$important
