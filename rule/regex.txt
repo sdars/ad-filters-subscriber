@@ -1,13 +1,31 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-09-12 20:01:16
+! Last Modified: 2026-09-13 02:12:50
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
 *.*.pool.ntp.org
 *.*.storage.live.com
 *.*.storage.msn.com
@@ -27,18 +45,11 @@
 *.fandom.com
 *.files.1drv.com
 *.gallery.vsassets.io
-@@||*.video.xiaomi.com^$important
 *.gallerycdn.vsassets.io
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
 *.github.io
 *.gravatar.com
 *.groups.office.live.com
 *.groups.photos.live.com
-@@||*.alipay.com^
 *.groups.skydrive.live.com
 *.icedrive.io
 *.ip6.arpa
@@ -57,25 +68,14 @@
 *.sonicbit.net
 *.storage.live.com
 *.storage.msn.com
-@@||*.alipay.com^$important
 *.update.microsoft.com
 *.userstorage.mega.co.nz
 *.wns.windows.com
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
-@@cdn.*.qq.com
-@@*.myapp.com
 a-*.a-msedge.net
-@@||*.imtt.qq.com^$important
 accounts.google.com.*
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
-@@||*.img.mobile.sina.cn^$important
-@@||*.twimg.com^$important
-@@||*.cdninstagram.com^$important
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
 avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
