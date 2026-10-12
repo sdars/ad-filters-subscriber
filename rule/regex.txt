@@ -1,23 +1,8 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-10-12 04:00:56
+! Last Modified: 2026-10-12 13:03:46
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
-@@cdn.*.qq.com
-@@*.myapp.com
-@@||*.imtt.qq.com^$important
-@@||*.lol.qq.com^$important
-@@||*.y.qq.com^$important
 *-ebgames.eb-cdn.com.au
 *.*.livefilestore.com
 *.*.onedrive.live.com
@@ -35,7 +20,6 @@
 *.delivery.mp.microsoft.com
 *.deviantart.com
 *.disquscdn.com
-@@||*.img.mobile.sina.cn^$important
 *.dl.delivery.mp.microsoft.com
 *.docs.live.net
 *.fandom.com
@@ -56,10 +40,8 @@
 *.office.com
 *.officeapps.live.com
 *.onedrive.com
-@@||*.twimg.com^$important
 *.onedrive.live.com
 *.phncdn.com
-@@||*.cdninstagram.com^$important
 *.policies.live.net
 *.prod.do.dsp.mp.microsoft.com
 *.settings.live.net
@@ -73,12 +55,30 @@
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
+@@||*.mi-img.com^$important
+@@||*.micloud.xiaomi.net^$important
 accounts.google.com.*
-@@||*.gtimg.cn^$important
-@@*.flyme.cn
+@@||*.video.xiaomi.com^$important
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
+@@||*.alipay.com^
+@@||*.alipay.com^$important
 avatars*.githubusercontent.com
+@@cdn.*.qq.com
+@@*.myapp.com
+@@||*.imtt.qq.com^$important
+@@||*.lol.qq.com^$important
+@@||*.y.qq.com^$important
+@@||*.img.mobile.sina.cn^$important
+@@||*.twimg.com^$important
+@@||*.cdninstagram.com^$important
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
+@@||*.gtimg.cn^$important
+@@*.flyme.cn
 d*.debrid.link
 dual-a-*.a-msedge.net
 galleryn*.awemdia.com
