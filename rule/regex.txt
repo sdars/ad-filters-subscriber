@@ -1,6 +1,6 @@
 [ADFS Adblock List]
 ! Title: regex.txt
-! Last Modified: 2026-11-12 14:23:18
+! Last Modified: 2026-11-13 00:39:20
 ! Homepage: https://github.com/fordes123/ad-filters-subscriber/
 
 *-ebgames.eb-cdn.com.au
@@ -10,11 +10,13 @@
 *.*.storage.live.com
 *.*.storage.msn.com
 *.abs.hls.ttvnw.net
+@@||*.mi-img.com^$important
 *.aria.microsoft.com
 *.battle.net
 *.bootstrap.libp2p.io
 *.branch.io
 *.cdn.snapcraft.io
+@@||*.micloud.xiaomi.net^$important
 *.cdnrobot.xyz
 *.cloudfront.net
 *.delivery.mp.microsoft.com
@@ -26,13 +28,20 @@
 *.files.1drv.com
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
+@@||*.video.xiaomi.com^$important
 *.github.io
 *.gravatar.com
 *.groups.office.live.com
+@@||v*-dc-ad.ixigua.com^$important
+@@||*.market.xiaomi.com^$important
+@@||*.market.mi-img.com^$important
+@@||f*.market.xiaomi.com^$important
+@@||f*.market.mi-img.com^$important
 *.groups.photos.live.com
 *.groups.skydrive.live.com
 *.icedrive.io
 *.ip6.arpa
+@@||*.alipay.com^
 *.karere.mega.nz
 *.livefilestore.com
 *.mesh.com
@@ -51,34 +60,25 @@
 *.update.microsoft.com
 *.userstorage.mega.co.nz
 *.wns.windows.com
+@@||*.alipay.com^$important
 *.ytimg.com
 *smartscreen-prod.microsoft.com
 *vod-adaptive.akamaized.net
 a-*.a-msedge.net
-accounts.google.com.*
-@@||*.mi-img.com^$important
-@@||*.micloud.xiaomi.net^$important
-@@||*.video.xiaomi.com^$important
-@@||v*-dc-ad.ixigua.com^$important
-@@||*.market.xiaomi.com^$important
-@@||*.market.mi-img.com^$important
-@@||f*.market.xiaomi.com^$important
-@@||f*.market.mi-img.com^$important
-@@||*.alipay.com^
-@@||*.alipay.com^$important
 @@cdn.*.qq.com
 @@*.myapp.com
+accounts.google.com.*
 @@||*.imtt.qq.com^$important
 @@||*.lol.qq.com^$important
 @@||*.y.qq.com^$important
-avatars*.githubusercontent.com
 @@||*.img.mobile.sina.cn^$important
 @@||*.twimg.com^$important
 @@||*.cdninstagram.com^$important
 @@||*.gtimg.cn^$important
+@@*.flyme.cn
+avatars*.githubusercontent.com
 cdn*-pic.xvideos-cdn.com
 cdn*-vid.xvideos-cdn.com
-@@*.flyme.cn
 d*.debrid.link
 dual-a-*.a-msedge.net
 galleryn*.awemdia.com
